@@ -53,9 +53,9 @@ first online only meeting, the agenda was reduced to a set of sessions that bene
 participation, like BoFs, first time meetings of a new working groups, or dispatch sessions, as well as the plenary
 in order to organize the official hand-over procedures that occur at the March meeting. With that reduced
 agenda it was possible to organize the meeting within roughly 2 session (about 4 hours) a day and maximum two
-parallel tracks. However, all working group meetings were instead move to interims distributed over
-the coming six weeks and therefore was often perceived as increase low of the a longer time. Also at that point of
-time there was not necessarily an expectation that the situation would continues as long as it did.
+parallel tracks. However, all working group meetings were instead moved to interims distributed over
+the coming six weeks which was often perceived as increased load over a longer time. Also at that point of
+time there was not necessarily an expectation that the situation would continue as long as it did.
 
 For the following meetings in 2020, the online schedule was retained in a more similar fashion as for in-person
 meeting (1-2 hour slots and 8-9 parallel tracks as described below), however, still with a reduced total length
