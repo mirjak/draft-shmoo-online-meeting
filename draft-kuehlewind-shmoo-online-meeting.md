@@ -43,7 +43,7 @@ and noting down the guidelines that have been followed since. The aim of this do
 consensus of these guidelines in the sense that the most participants are sufficiently satisfied 
 with the current organization of fully online events. These guidelines, however, document only one option
 of running fully online meetings. But as the IETF has done for in-person meetings, changes to the organization
-the meetings and the meeting agenda should be experimented with in the process of establishing future meeting guidelines. 
+of the meetings and the meeting agenda should be experimented with in the process of establishing future meeting guidelines. 
 
 # Some History
 
