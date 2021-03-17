@@ -37,13 +37,13 @@ on the experience after the COVID-19 pandemic in 2020.
 
 # Introduction
 
-In 2020 the COVID-19 pandemic forced the IETF to move all its plenary meeting to online only events.
+In 2020, the COVID-19 pandemic forced the IETF to move all its plenary meeting to online only events.
 This document mainly records the experience gained by holding all three plenary meetings in 2020 fully online  
 and noting down the guidelines that have been followed since. The aim of this document is to determine rough
 consensus of these guidelines in the sense that the most participants are sufficiently satisfied 
 with the current organization of fully online events. These guidelines, however, document only one option
-of running fully online meeting and, similar as done for in-person meetings, changes to the organization
-the meetings and the meeting agenda should be experimented with. 
+of running fully online meetings. But as the IETF has done for in-person meetings, changes to the organization
+the meetings and the meeting agenda should be experimented with in the process of establishing future meeting guidelines. 
 
 # Some History
 
