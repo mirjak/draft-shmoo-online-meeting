@@ -47,24 +47,26 @@ the meetings and the meeting agenda should be experimented with.
 
 # Some History
 
-When the WHO declared a world-wide pandemic in March 2020, the IETF had to cancel its plenary
-impromptu and organize an online replacement instead (within less than two weeks). At that point for this
+When the WHO declared a world-wide pandemic in March 2020, the IETF had to quickly cancel its plenary 
+and organize an online replacement instead (within less than two weeks). At that point for this
 first online only meeting, the agenda was reduced to a set of sessions that benefits most from cross-area
 participation, like BoFs, first time meetings of a new working groups, or dispatch sessions, as well as the plenary
-in order to organize the official hand-over procedures that occur at the March meeting. With that reduced
-agenda it was possible to organize the meeting within roughly 2 session (about 4 hours) a day and maximum two
+in order to organize the official hand-over procedures that occur at the March meeting. 
+
+With that reduced
+agenda, it was possible to organize the meeting within roughly 2 sessions (about 4 hours) a day and maximum two
 parallel tracks. However, all working group meetings were instead moved to interims distributed over
 the coming six weeks which was often perceived as increased load over a longer time. Also at that point of
 time there was not necessarily an expectation that the situation would continue as long as it did.
 
-For the following meetings in 2020, the online schedule was retained in a more similar fashion as for in-person
+For the following meetings in 2020, the online schedule was retained in a fashion similar to an in-person
 meeting (1-2 hour slots and 8-9 parallel tracks as described below), however, still with a reduced total length
 of first 5 hours a day and then 6 hours with longer breaks. As with in per-person meetings, 
 the total number of sessions depends on the number of 
-requested sessions by working and research group chairs, which were encouraged to request rather shorter and less slots. However, this in some cases also let to overcrowded agendas and session going over time (which however
+requested sessions by working and research group chairs, which were encouraged to request rather shorter and less slots. However, this in some cases also led to overcrowded agendas and sessions going over time (which
 is often also observed at in-person meetings). In general the total number and hours of interim meetings has probably
-also increase since,
-indicating maybe a change in the way people work and getting more used to online meetings in general.
+also increased since that time,
+potentially indicating a change in the way people work and increased comfort participating in online meetings in general.
 More interim meetings are sometimes also perceived as increased load but may also help to make more continuous 
 progress. This discussion is on-going and not in scope for this document.
 
