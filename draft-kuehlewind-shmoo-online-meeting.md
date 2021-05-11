@@ -72,22 +72,31 @@ progress. This discussion is on-going and not in scope for this document.
 
 # Guidelines for Online Meeting Planning
 
-This section records what has be evolved as practise during the fully online meetings held
-in 2020. 
-
 ## Time Zone Selection
 
-All fully online meetings in 2020 have followed the time zone of the planned in-person meeting
-location, but starting roughly around noon instead. The in-person 
-meeting location follows the 1-1-1 rule as documented in RFC8719 to rotate between Asia, Europe, 
-and North America. While the exact time slot used had let to various discussions, following
-this 1-1-1 rule to share the pain has/seems to have rough consensus.
+All fully online IETF plenary meetings begin at 0500 ("Asia"), 1200 ("Europe"), or 2100 ("North America") UTC. The names
+are not meant to imply that all participants in a given region will find the times convenient given their personal
+schedules, but are useful for the selection rules below. These location names are consistent with the venue
+selection criteria in {{?RFC8719}}.
 
-Some flexibility with the start time to be "around" noon has proven useful to mitigate the worse
-possible time slots, however, it's impossible to avoid certain hours entirely. There have not been enough
-online only meetings yet to potentially converge to a fixed set of 3 time slots, one for each region
-(potentially different for summer and winter time though) but that might be an option to consider
-to avoid repeating discussions about the exact start time.
+The primary intent of these rules is to scatter meetings throughout the course of the global day, to maximize the ease
+of participants to occasionally attend regardless of their location and what time of day is optimal for their schedule,
+which should not be assumed to be the normal working day.
+
+### Rules for selection
+
+The IETF will select a start time from these three choices according the following rules, applied in order.
+
+1. Eliminate all regions that had an in-person meeting in that calendar year. If one region remains, select the time
+slot mapped to that region.
+
+2. Eliminate all regions that have a planned in-person meeting that calendar year. If one region remains, select the
+time slot mapped to that region.
+
+3. Select the region that has least recently had an fully online IETF plenary in its slot. For the pandemic cancellations
+of 2020- 2021, the original host cities are used to determine the host region. Therefore, at the time of writing the
+most recent selections are Asia in November 2020, Europe in March 2021, and North America in July 2021.
+
 
 ## Number of Days and Total Hours per Day
 
