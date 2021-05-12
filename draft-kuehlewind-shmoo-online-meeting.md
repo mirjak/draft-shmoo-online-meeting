@@ -30,14 +30,14 @@ informative:
 --- abstract
 
 This document provides guidelines for the planning and organization of fully online meetings, regarding
-the number, length, and composition of sessions on the meeting agenda. These guideline are based
+the number, length, and composition of sessions on the meeting agenda. These guidelines are based
 on the experience after the COVID-19 pandemic in 2020.
 
 --- middle
 
 # Introduction
 
-In 2020, the COVID-19 pandemic forced the IETF to move all its plenary meeting to online only events.
+In 2020, the COVID-19 pandemic forced the IETF to move all its plenary meetings to online-only events.
 This document mainly records the experience gained by holding all three plenary meetings in 2020 fully online  
 and noting down the guidelines that have been followed since. The aim of this document is to determine rough
 consensus of these guidelines in the sense that the most participants are sufficiently satisfied 
@@ -47,28 +47,37 @@ of the meetings and the meeting agenda should be experimented with in the proces
 
 # Some History
 
-When the WHO declared a world-wide pandemic in March 2020, the IETF had to quickly cancel its plenary 
-and organize an online replacement instead (within less than two weeks). At that point for this
-first online only meeting, the agenda was reduced to a set of sessions that benefits most from cross-area
-participation, like BoFs, first time meetings of a new working groups, or dispatch sessions, as well as the plenary
-in order to organize the official hand-over procedures that occur at the March meeting. 
+When the WHO declared a world-wide pandemic in March 2020, the IETF had to quickly cancel its plenary meeting
+and organize an online replacement instead (within less than two weeks). At that point, for this
+first online-only meeting, the agenda was reduced to a set of sessions that benefits most from cross-area
+participation, like BoFs, first-time meetings of a new working groups, or dispatch sessions, as well as the 
+administrative plenary in order to organize the official hand-over procedures that occur at the March meeting. 
 
 With that reduced
-agenda, it was possible to organize the meeting within roughly 2 sessions (about 4 hours) a day and maximum two
-parallel tracks. However, all working group meetings were instead moved to interims distributed over
-the coming six weeks which was often perceived as increased load over a longer time. Also at that point of
+agenda, it was possible to organize the meeting within roughly 2 sessions (about 4 hours) a day and a maximum of two
+parallel tracks. This was possible as all working group meetings were instead moved to interims which were then distributed over
+the coming six weeks. However, this was often perceived as increased load over a longer time. But at that point of
 time there was not necessarily an expectation that the situation would continue as long as it did.
 
 For the following meetings in 2020, the online schedule was retained in a fashion similar to an in-person
 meeting (1-2 hour slots and 8-9 parallel tracks as described below), however, still with a reduced total length
-of first 5 hours a day and then 6 hours with longer breaks. As with in per-person meetings, 
+of initially 5 hours a day and then 6 hours with longer breaks. As with in per-person meetings, 
 the total number of sessions depends on the number of 
-requested sessions by working and research group chairs, which were encouraged to request rather shorter and less slots. However, this in some cases also led to overcrowded agendas and sessions going over time (which
-is often also observed at in-person meetings). In general the total number and hours of interim meetings has probably
-also increased since that time,
-potentially indicating a change in the way people work and increased comfort participating in online meetings in general.
+requested sessions by working and research group chairs, which were encouraged to request rather shorter and less slots.
+However, this in some cases also led to overcrowded agendas and sessions going over time (which
+is often also observed at in-person meetings). In general, the total number and hours of interim meetings has probably
+also increased in 2020,
+potentially indicating a change in the way people work as well as increased comfort participating in online meetings in general.
 More interim meetings are sometimes also perceived as increased load but may also help to make more continuous 
 progress. This discussion is on-going and not in scope for this document.
+
+All fully online meetings in 2020 have followed the time zone of the planned in-person meeting
+location, but starting roughly around noon instead. Some flexibility with the start time to be "around"
+noon has been used to mitigate the worse
+possible time slots, even though, given the distribution of participants it is not possible to
+avoid certain hours entirely. The in-person meeting location follows the 1-1-1 rule as documented in RFC8719
+to rotate between Asia, Europe,  and North America. While the exact time slot used had let to various discussions,
+following this 1-1-1 rule to share the pain has/seems to have rough consensus.
 
 # Guidelines for Online Meeting Planning
 
@@ -92,7 +101,7 @@ to avoid repeating discussions about the exact start time.
 ## Number of Days and Total Hours per Day
 
 Online meetings have converged to run over 5 days with 6-hour meeting days, roughly.
-Only, the plenary, which concludes with multiple open mic sessions, is not necessarily time-bounded.
+Only, the administrative plenary, which concludes with multiple open mic sessions, is not necessarily time-bounded.
 
 Based on the experience so far, 6 hours of online meetings, with two 30 minutes breaks,
 appears to be potentially a natural limited of what is handleable for most participants.
@@ -115,7 +124,7 @@ better over the entirely year by a more regular use of interim meetings.
 
 Session length and the number of parallel tracks are handled similar to in-person meetings,
 only that there are less sessions per day to keep the overall meeting day to at roughly 6 hours.
-The reduction to three instead of four sessions per day let to the pratice of offering chairs only two options for
+The reduction to three instead of four sessions per day let to the practice of offering chairs only two options for
 session length (instead of three), in order to make session scheduling more practical.
 
 At IETF-108, based on an indicated preference of the community, 50 and 100 minute slot were used,
@@ -126,7 +135,7 @@ practical.
 The survey after IETF-109 showed a high satisfaction with 60/120 minute session lengths and 30 minute breaks,
 and a significant improvement in satisfaction over IETF-108. [https://www.ietf.org/blog/ietf-109-post-meeting-survey/]
 
-While the option to to shorten the breaks was discussed during the later meetings,
+While the option to shorten the breaks was discussed during the later meetings,
 a saving of in total 10-20 minutes per day might not balance the need to use the breaks for recreation or 
 at least some socialising.
 
@@ -134,12 +143,12 @@ at least some socialising.
 
 Fully online meetings are not limited in the number of parallel tracks by the physical restriction of a meeting venue aka
 the number of meeting rooms. However, the more parallel tracks there are,
-the higher is the chances for conflicts. Therefore it is
+the higher chances are for conflicts. Therefore it is
 desirable to balance the requested sessions mostly equally over the available slots and thereby
 minimise the number of parallel tracks where possible.
 
 If the number of requested sessions exceeds the number of possible slots with the usual 8 parallel tracks, it
-is possible for an online only meeting to use more tracks. After all, this decision is implicitly made by the working group
+is possible for an online-only meeting to use more tracks. After all, this decision is implicitly made by the working group
 chairs requesting a certain number of sessions and length. While realistic planning is desired to avoid running over time,
 chairs are still encouraged to request plenary meeting time carefully and use interims where possible and sensible
 instead.
