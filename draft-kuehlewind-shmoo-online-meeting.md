@@ -75,7 +75,7 @@ All fully online meetings in 2020 have followed the time zone of the planned in-
 location, but starting roughly around noon instead. Some flexibility with the start time to be "around"
 noon has been used to mitigate the worse
 possible time slots, even though, given the distribution of participants it is not possible to
-avoid certain hours entirely. The in-person meeting location follows the 1-1-1 rule as documented in RFC8719
+avoid certain hours entirely. The in-person meeting location follows the 1-1-1 rule as documented in {{RFC8719}}
 to rotate between Asia, Europe,  and North America. While the exact time slot used had let to various discussions,
 following this 1-1-1 rule to share the pain has/seems to have rough consensus.
 
