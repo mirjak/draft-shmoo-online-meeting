@@ -156,7 +156,7 @@ has been recognised as important for continuous progress (and not only for newly
 
 Similar as for in-person meeting, it is desirable to experiment with the meeting structure. Often only practical
 experience can answer open questions. It is recommended to not experiment with a larger number of different
-aspects at the same time, in order to be able to assess the outcome correctly. It is future recommend to announce any
+aspects at the same time, in order to be able to assess the outcome correctly. It is further recommended to announce any
 such experiment in advance, so people adjust to changes and potentially provide feedback.
 
 
@@ -164,16 +164,16 @@ such experiment in advance, so people adjust to changes and potentially provide 
 
 Participation of the most recent online only meetings were rather high and had a quite stable per-country distribution,
 even though time zones were rotated. This indicates that online meetings support a more easy and therefore potentially
-broader participation than in-person meeting where participation is often fluctuating based on the location.
+broader participation than in-person meetings where participation is often fluctuating based on the location.
 
 However, it has also been recognised that the online meeting does not provide an equivalent opportunity to socialize.
 The observed slight decrease in submission of new (-00) drafts, while the overall number of draft submission and
-productivity seem to say stable, might also be an indication of the dismiss of these interactions. The increase in interim
+productivity seem to stay stable, might also be an indication of the dismiss of these interactions. The increase in interim
 meetings potentially compensates for these missing interactions for continuous work (or may even increases 
 productivity there), but seems to be less adequate to spark new ideas.
 
 None of the data observed so far can, however, be interpreted as showing a significant trend. However, these factors
-should be consider for the organization of future online only meetings in replacement or addition to in-person meetings.
+should be consider for the organization of future online-only meetings in replacement or addition to in-person meetings.
 
 
 # Acknowledgments
