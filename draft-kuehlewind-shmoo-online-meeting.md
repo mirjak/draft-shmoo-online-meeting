@@ -17,6 +17,11 @@ author:
     name: Mirja Kuehlewind
     org: Ericsson
     email: mirja.kuehlewind@ericsson.com
+  -
+    ins: M. Duke
+    name: Martin Duke
+    org: F5 Networks, Inc.
+    email: martin.h.duke@gmail.com
 
 
 normative:
