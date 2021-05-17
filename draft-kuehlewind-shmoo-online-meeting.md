@@ -93,10 +93,10 @@ are not meant to imply that all participants in a given region will find the tim
 schedules, but are useful for the selection rules below. These location names are consistent with the venue
 selection criteria in {{?RFC8719}}.
 
-The selected slots have been proposed to reduce unconvience hours as much as possible,
-effectively having an early morning meeting and a respectively late afternoon meeting for two of the three regions in
-each slot. E.g. the "Asia" 0500 UTC slot would be 0600 CET (early morning) and 1300 CST (afternoon). Given fully online
-meeting days are expected to be shorter then in-person meetings, this slot are roughly within the "usualy" working hours
+The selected slots have been proposed to minimize inconvenience while not excessively penalizing any time zone.
+Effectively, there is an early morning and a late afternoon meeting for two of the three regions in
+each slot. E.g. the "Asia" 0500 UTC slot would be 0600 CET (early morning) and 1300 China Standard Time (afternoon). Since fully
+online meeting days are expected to be shorter then in-person meetings, this slot is roughly within the "usual" working hours
 of both regions.
 
 The intent of rotating between these three slots is to scatter meetings throughout the course of the global day, to maximize the ease
