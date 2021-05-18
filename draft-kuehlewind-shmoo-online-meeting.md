@@ -91,7 +91,7 @@ following this 1-1-1 rule to share the pain has/seems to have rough consensus.
 All fully online IETF plenary meetings begin at 0500 ("Asia"), 1200 ("Europe"), or 2100 ("North America") UTC. The names
 are not meant to imply that all participants in a given region will find the times convenient given their personal
 schedules, but are useful for the selection rules below. These location names are consistent with the venue
-selection criteria in {{?RFC8719}}.
+selection criteria in {{RFC8719}}.
 
 The selected slots have been proposed to minimize inconvenience while not excessively penalizing any time zone.
 Effectively, there is an early morning and a late afternoon meeting for two of the three regions in
