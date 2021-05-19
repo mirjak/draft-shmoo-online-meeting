@@ -104,7 +104,9 @@ of participants to occasionally attend regardless of their location and what tim
 
 ### Rules for selection
 
-The IETF will select a start time from these three choices according the following rules, applied in order.
+The LLC will select a start time from these three choices according the following rules, applied in order. The LLC MAY deviate from
+these selection criteria, and the time slots listed above, after consultation with the IESG in urgent situations and the wider
+community in non-emergency situations.
 
 1. Eliminate all regions that had an in-person meeting in that calendar year. If one region remains, select the time
 slot mapped to that region.
