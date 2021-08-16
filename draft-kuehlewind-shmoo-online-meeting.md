@@ -189,8 +189,8 @@ total days used.
 
 A highly concentrated meeting, in structure similar to the in-person plenary meeting, provides value for cross-participants
 (see also section {{full-limited}}). Further a well defined meeting time, rather than spreading many interims over the whole
-year can make deconflicting with other non-IETF meetings easier. Still opportunities to utilize flexibility of a fully only meeting
-provide to reduce conflicts during the plenary meeting should be further explored. E.g. it would be possible to keep most regular
+year can make deconflicting with other non-IETF meetings easier. Still opportunities to utilize the flexibility a fully only meeting
+provides to reduce conflicts during the plenary meeting should be further explored. E.g. it would be possible to keep most regular
 working group sessions within the usually five main meeting days but have some of the more conflicted sessions such as BoFs or
 dispatch meetings in other dedicated time slots. As the Hackathon for online only meetings is
 usually held in the week before the online plenary meeting {{I-D:ietf-shmoo-hackathon}}, that week is already a high active
