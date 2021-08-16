@@ -84,6 +84,14 @@ avoid certain hours entirely. The in-person meeting location follows the 1-1-1 r
 to rotate between Asia, Europe,  and North America. While the exact time slot used had let to various discussions,
 following this 1-1-1 rule to share the pain has/seems to have rough consensus.
 
+## Full vs. limited agenda {#full-limited}
+
+The IETF-108 meeting survey asked about the structure of that meeting (full meeting) compared to that of IETF 107,
+which hosted only a limited set of session followed by interims in the weeks after. The structure of IETF 108 was
+preferred by 82% [https://www.ietf.org/blog/ietf-108-meeting-survey/]. While the limited agenda of IETF-107
+could have been a good one-time replacement, the value of cross-participation and high active meetings weeks
+has been recognised as important for continuous progress (and not only for newly initiated work).
+
 # Guidelines for Online Meeting Planning
 
 ## Time Zone Selection
@@ -167,18 +175,28 @@ desirable to balance the requested sessions mostly equally over the available sl
 minimise the number of parallel tracks where possible.
 
 If the number of requested sessions exceeds the number of possible slots with the usual 8 parallel tracks, it
-is possible for an online-only meeting to use more tracks. After all, this decision is implicitly made by the working group
+is possible for an online-only meeting to use more tracks, as the number of physical meeting rooms is not a limit factor.
+If the number of meeting days is seen as fixed, this decision is implicitly made by the working group
 chairs requesting a certain number of sessions and length. While realistic planning is desired to avoid running over time,
-chairs are still encouraged to request plenary meeting time carefully and use interims where possible and sensible
+chairs are encouraged to request plenary meeting time carefully and use interims where possible and sensible
 instead.
 
-## Full vs. limited agenda
+However, online meetings also provide an opportunity to use more time more flexibly. While for an in-person meeting all
+sessions have to be fitted into the available time people are willing to travel at once (usually roughly a week), online meetings do not have
+that constraint. Therefore there is a trade-off between the number of parallel tracks, where more parallel tracks
+mean more potential conflicts (as least of high-active participants), and the overall time in terms of hours per day or 
+total days used. 
 
-The IETF-108 meeting survey asked about the structure of that meeting (full meeting) compared to that of IETF 107,
-which hosted only a limited set of session followed by interims in the weeks after. The structure of IETF 108 was
-preferred by 82% [https://www.ietf.org/blog/ietf-108-meeting-survey/]. While the limited agenda of IETF-107
-could have been a good one-time replacement, the value of cross participation and high active meetings weeks
-has been recognised as important for continuous progress (and not only for newly initiated work).
+A highly concentrated meeting, in structure similar to the in-person plenary meeting, provides value for cross-participants
+(see also section {{full-limited}}). Further a well defined meeting time, rather than spreading many interims over the whole
+year can make deconflicting with other non-IETF meetings easier. Still opportunities to utilize flexibility of a fully only meeting
+provide to reduce conflicts during the plenary meeting should be further explored. E.g. it would be possible to keep most regular
+working group sessions within the usually five main meeting days but have some of the more conflicted sessions such as BoFs or
+dispatch meetings in other dedicated time slots. As the Hackathon for online only meetings is
+usually held in the week before the online plenary meeting {{I-D:ietf-shmoo-hackathon}}, that week is already a high active
+week for many IETF participants and might provide an option to schedule a few selected sessions, that are of high interest
+for a large part of community and therefore hard to schedule during the main IETF week, in a time slot that is well
+assessable for most people in the community in various time zones.
 
 # Experiments
 
