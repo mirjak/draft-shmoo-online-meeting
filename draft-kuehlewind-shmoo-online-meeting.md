@@ -81,7 +81,7 @@ location, but starting roughly around noon instead. Some flexibility with the st
 noon has been used to mitigate the worse
 possible time slots, even though, given the distribution of participants it is not possible to
 avoid certain hours entirely. The in-person meeting location follows the 1-1-1 rule as documented in {{RFC8719}}
-to rotate between Asia, Europe,  and North America. While the exact time slot used had let to various discussions,
+to rotate between Asia, Europe,  and North America. While the exact time slot used had led to various discussions,
 following this 1-1-1 rule to share the pain has/seems to have rough consensus.
 
 # Guidelines for Online Meeting Planning
@@ -143,7 +143,7 @@ better over the entirely year by a more regular use of interim meetings.
 
 Session length and the number of parallel tracks are handled similar to in-person meetings,
 only that there are less sessions per day to keep the overall meeting day to at roughly 6 hours.
-The reduction to three instead of four sessions per day let to the practice of offering chairs only two options for
+The reduction to three instead of four sessions per day led to the practice of offering chairs only two options for
 session length (instead of three), in order to make session scheduling more practical.
 
 At IETF-108, based on an indicated preference of the community, 50 and 100 minute slot were used,
@@ -197,7 +197,7 @@ broader participation than in-person meetings where participation is often fluct
 However, it has also been recognised that the online meeting does not provide an equivalent opportunity to socialize.
 The observed slight decrease in submission of new (-00) drafts, while the overall number of draft submission and
 productivity seem to stay stable, might also be an indication of the dismiss of these interactions. The increase in interim
-meetings potentially compensates for these missing interactions for continuous work (or may even increases 
+meetings potentially compensates for these missing interactions for continuous work (or may even increase
 productivity there), but seems to be less adequate to spark new ideas.
 
 None of the data observed so far can, however, be interpreted as showing a significant trend. However, these factors
