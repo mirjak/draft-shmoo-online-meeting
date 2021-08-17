@@ -5,8 +5,8 @@
 Network Working Group                                      M. Kuehlewind
 Internet-Draft                                                  Ericsson
 Intended status: Informational                                   M. Duke
-Expires: 19 November 2021                              F5 Networks, Inc.
-                                                             18 May 2021
+Expires: 18 February 2022                              F5 Networks, Inc.
+                                                          17 August 2021
 
 
         Guidelines for the Organization of Fully Online Meetings
@@ -45,7 +45,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 19 November 2021.
+   This Internet-Draft will expire on 18 February 2022.
 
 Copyright Notice
 
@@ -138,7 +138,7 @@ Table of Contents
    given the distribution of participants it is not possible to avoid
    certain hours entirely.  The in-person meeting location follows the
    1-1-1 rule as documented in [RFC8719] to rotate between Asia, Europe,
-   and North America.  While the exact time slot used had let to various
+   and North America.  While the exact time slot used had led to various
    discussions, following this 1-1-1 rule to share the pain has/seems to
    have rough consensus.
 
@@ -221,7 +221,7 @@ Table of Contents
    Session length and the number of parallel tracks are handled similar
    to in-person meetings, only that there are less sessions per day to
    keep the overall meeting day to at roughly 6 hours.  The reduction to
-   three instead of four sessions per day let to the practice of
+   three instead of four sessions per day led to the practice of
    offering chairs only two options for session length (instead of
    three), in order to make session scheduling more practical.
 
@@ -297,7 +297,7 @@ Table of Contents
    of draft submission and productivity seem to stay stable, might also
    be an indication of the dismiss of these interactions.  The increase
    in interim meetings potentially compensates for these missing
-   interactions for continuous work (or may even increases productivity
+   interactions for continuous work (or may even increase productivity
    there), but seems to be less adequate to spark new ideas.
 
    None of the data observed so far can, however, be interpreted as
