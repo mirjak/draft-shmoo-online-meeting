@@ -88,12 +88,20 @@ following this 1-1-1 rule to share the pain has/seems to have rough consensus.
 
 ## Time Zone Selection
 
-All fully online IETF plenary meetings begin at 0500 ("North America Night"),
-1400 ("Asia Night"), or 2200 ("Europe Night") UTC. The times are not meant to
-optimize for any region listed in the selection criteria in {{RFC8179}}.
-Instead, their intent is for any meeting to mostly occur during the day of two
-RFC8179 regions, so that only one meeting per year has overnight hours for a
-given region.
+All fully online IETF plenary meetings are at a time that maps to the middle of
+the night in one of the three regions described in {{RFC8179}}, so that in the
+other two regions they occur mostly after sunrise or after dinner, roughly
+speaking. Thus, for most participants only one remote meeting per year might
+require a major change to sleep schedules.
+
+The times are also seasonally adjusted to leverage differentials in Daylight
+Savings Time. These time slots are as follows, in UTC:
+
+| Name | Times (Northern Summer) | Times (Northern Winter) |
+| ---- | ----------------------- | ----------------------- |
+| North America Night | 0500-1100 | 0600-1200 |
+| Asia Night | 1400-2000 | 1600-2200 |
+| Europe Night | 2200-0400 | 0000-0600 |
 
 The intent of rotating between these three slots is to scatter meetings
 throughout the course of the global day, to maximize the ease of participants
