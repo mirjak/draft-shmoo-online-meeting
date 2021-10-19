@@ -88,34 +88,41 @@ following this 1-1-1 rule to share the pain has/seems to have rough consensus.
 
 ## Time Zone Selection
 
-All fully online IETF plenary meetings begin at 0500 ("Asia"), 1200 ("Europe"), or 2100 ("North America") UTC. The names
-are not meant to imply that all participants in a given region will find the times convenient given their personal
-schedules, but are useful for the selection rules below. These location names are consistent with the venue
-selection criteria in {{RFC8719}}.
+All fully online IETF plenary meetings begin at 0500 ("North America Night"),
+1400 ("Asia Night"), or 2200 ("Europe Night") UTC. The times are not meant to
+optimize for any region listed in the selection criteria in {{RFC8179}}.
+Instead, their intent is for any meeting to mostly occur during the day of two
+RFC8179 regions, so that only one meeting per year has overnight hours for a
+given region.
 
-The selected slots have been proposed to minimize inconvenience while not excessively penalizing any time zone.
-Effectively, there is an early morning and a late afternoon meeting for two of the three regions in
-each slot. E.g. the "Asia" 0500 UTC slot would be 0600 CET (early morning) and 1300 China Standard Time (afternoon). Since fully
-online meeting days are expected to be shorter then in-person meetings, this slot is roughly within the "usual" working hours
-of both regions.
-
-The intent of rotating between these three slots is to scatter meetings throughout the course of the global day, to maximize the ease
-of participants to occasionally attend regardless of their location and what time of day is optimal for their schedule.
+The intent of rotating between these three slots is to scatter meetings
+throughout the course of the global day, to maximize the ease of participants
+to occasionally attend regardless of their location and what time of day is
+optimal for their schedule.
 
 ### Rules for selection
 
-The IETF will select a start time from these three choices according the following rules, applied in order.
+The IETF will select a start time from these three choices based on the past
+three meetings. The following table covers all permutations of previous
+meetings held in-person in Region A, B, or C; or remotely in the nights of
+one of those regions.
 
-1. Eliminate all regions that had an in-person meeting in that calendar year. If one region remains, select the time
-slot mapped to that region.
+| 3 meetings ago | 2 meetings ago | Last Meeting | Remote Selection |
+| -------------- | -------------- | ------------ | ---------------- |
+| Any | Any | In-Person, A | A Night |
+| Any | Remote, A Night | Remote, B Night | C Night |
+| Remote A Night | In-Person B | Remote B Night | C Night |
+| In-Person A | In-Person B | Remote B Night | A Night |
+| In-Person A | In-Person A | Remote A Night | see below |
 
-2. Eliminate all regions that have a planned in-person meeting that calendar year. If one region remains, select the
-time slot mapped to that region.
+The final case occurs in the rare event that back-to-back in-person plenaries
+occur in the same region. In this case, find the most recent meeting that was
+neither in 'A' (if in person) nor in 'A' night (if remote). If this meeting
+was in-person in region 'B', then the next meeting will be in 'B' Night. If it
+was remote in 'B' Night, the next meeting will be in 'C' Night.
 
-3. Select the region that has least recently had an fully online IETF plenary in its slot. For the pandemic cancellations
-of 2020- 2021, the original host cities are used to determine the host region. Therefore, at the time of writing the
-most recent selections are Asia in November 2020, Europe in March 2021, and North America in July 2021.
-
+To initialize this algorithm, IETF 112 is considered as an 'Asia Night'
+remote meeting, and IETF 111 is a 'Europe Night' remote meeting.
 
 ## Number of Days and Total Hours per Day
 
