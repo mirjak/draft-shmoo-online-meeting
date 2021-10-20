@@ -100,8 +100,8 @@ Savings Time. These time slots are as follows, in UTC:
 | Name | Times (Northern Summer) | Times (Northern Winter) |
 | ---- | ----------------------- | ----------------------- |
 | North America Night | 0500-1100 | 0600-1200 |
-| Asia Night | 1400-2000 | 1600-2200 |
-| Europe Night | 2200-0400 | 0000-0600 |
+| Asia Night | 1400-2000 | 1500-2100 |
+| Europe Night | 2200-0400 | 2200-0400 |
 
 The intent of rotating between these three slots is to scatter meetings
 throughout the course of the global day, to maximize the ease of participants
