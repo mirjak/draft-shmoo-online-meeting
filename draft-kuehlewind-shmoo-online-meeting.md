@@ -174,15 +174,17 @@ A highly concentrated meeting, in structure similar to the in-person plenary mee
 Further a well defined meeting time, rather than spreading many interims over the whole
 year can make deconflicting with other non-IETF meetings easier.
 
-On the other side, use of (more) online interim meetings can help to reduce scheduling conflicts during an IETF week
-and allows for a more are optimal scheduled for the key participants. Of course these interim meetings are less likely
-to attract people with casual interest but provide a good opportunity for the active participants of a group to
-have details technical discussion and solve recorded issues efficiently.
-
 While the time during an in-person meeting can be used very intensively, even a compact and full online
 schedule does often not prevent day-job duties to occur in parallel. Therefore, allocating more time can also
 make it more difficult for people to join and as such needs to be balanced with the option to distribute load
 better over the entirely year by a more regular use of interim meetings.
+
+Use of (more) online interim meetings can also help to reduce scheduling conflicts during an IETF week
+and allows for a more are optimal scheduled for the key participants. Of course these interim meetings are less likely
+to attract people with casual interest but provide a good opportunity for the most active participants of a group to
+have detailed technical discussions and solve recorded issues efficiently.
+
+
 
 ## Flexibility of time usage
 
