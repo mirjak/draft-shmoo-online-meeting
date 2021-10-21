@@ -88,11 +88,12 @@ following this 1-1-1 rule to share the pain has/seems to have rough consensus.
 
 ## Time Zone Selection
 
-All fully online IETF plenary meetings are at a time that maps to the middle of
-the night in one of the three regions described in {{RFC8179}}, so that in the
-other two regions they occur mostly after sunrise or after dinner, roughly
-speaking. Thus, for most participants only one remote meeting per year might
-require a major change to sleep schedules.
+This time selection enables to have 2 out of 3 fully online IETF plenary meetings 
+during the day from most participants. Basically every full online meeting is for two regions 
+of the three regions described in {{RFC8179}}, roughly speaking, after sunrise or after dinner.
+This has the tradeoff that it maps the third region in middle of night. However, that also means
+for most participants only one remote meeting per year might
+require a significant change to sleep schedules.
 
 The times are also seasonally adjusted to leverage differentials in Daylight
 Savings Time. These time slots are as follows, in UTC:
