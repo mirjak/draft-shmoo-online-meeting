@@ -157,7 +157,7 @@ is possible for a fully online meeting to simply use more tracks. This also mean
 is implicitly made by the working group chairs requesting a certain number of sessions and length. 
 
 As more parallel sessions usually also mean more conflicts,
-chairs are encouraged to request plenary meeting time carefully but also based realistic planning to avoid running over time.
+chairs are encouraged to request plenary meeting time carefully but also based on realistic planning to avoid running over time.
 Use of interim meetings should be consider instead where possible and sensible, as discussed in Section {{full-limited}}.
 
 # Additiona Considerations and Recommendations
