@@ -124,6 +124,10 @@ one of those regions.
 | In-Person A | In-Person B | Remote B Night | A Night |
 | In-Person A | In-Person A | Remote A Night | see below |
 
+Basically this table follows two rules:
+1) Even ever a fully online meeting follows and in-person meeting, the online meeting that is used that disadvantages most the participants of the time zone where the in-person meeting was held.
+2) If multiple fully online meetings follow each other, the time zone selection should be rotated based on the most recent time zones that the in-person meetings were held in.
+
 The final case occurs in the rare event that back-to-back in-person plenaries
 occur in the same region. In this case, find the most recent meeting that was
 neither in 'A' (if in person) nor in 'A' night (if remote). If this meeting
