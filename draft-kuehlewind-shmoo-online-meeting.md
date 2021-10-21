@@ -25,7 +25,7 @@ author:
 
 
 normative:
-  RFC8719: 
+  RFC8719:
 
 
 informative:
@@ -90,7 +90,7 @@ following this 1-1-1 rule to share the pain has/seems to have rough consensus.
 
 This time selection enables to have 2 out of 3 fully online IETF plenary meetings 
 during the day from most participants. Basically every full online meeting is for two regions 
-of the three regions described in {{RFC8179}}, roughly speaking, after sunrise or after dinner.
+of the three regions described in {{!RFC8179}}, roughly speaking, after sunrise or after dinner.
 This has the tradeoff that it maps the third region in middle of night. However, that also means
 for most participants only one remote meeting per year might
 require a significant change to sleep schedules.
