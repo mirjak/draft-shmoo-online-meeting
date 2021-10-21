@@ -152,8 +152,8 @@ Fully online meetings are not limited in the number of parallel tracks by the ph
 the number of meeting rooms. In order to reduce the number of possible conflicts, it is still
 desirable to minimise the number of parallel tracks by balancing the requested sessions mostly equally over the available slots.
 
-If the total number of requested sessions exceeds the capacity of the usual 8 parallel tracks, it
-is possible for a fuly online meeting to simply use more tracks. This also means, if the number of meeting days is seen as fixed, this decision
+But if the total number of requested sessions exceeds the capacity of the usual 8 parallel tracks, it
+is possible for a fully online meeting to simply use more tracks. This also means, if the number of meeting days is seen as fixed, this decision
 is implicitly made by the working group chairs requesting a certain number of sessions and length. 
 
 As more parallel sessions usually also mean more conflicts,
