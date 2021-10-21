@@ -149,7 +149,7 @@ at least some socialising.
 ## Number of Parallel Tracks {#tracks}
 
 Fully online meetings are not limited in the number of parallel tracks by the physical restriction of a meeting venue aka
-the number of meeting rooms. In order to reduce the number of possible conflicts, it is anyway
+the number of meeting rooms. In order to reduce the number of possible conflicts, it is still
 desirable to minimise the number of parallel tracks by balancing the requested sessions mostly equally over the available slots.
 
 Still, if the total number of requested sessions exceeds the capacity of the usual 8 parallel tracks, it
