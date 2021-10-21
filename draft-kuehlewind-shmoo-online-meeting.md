@@ -116,13 +116,14 @@ three meetings. The following table covers all permutations of previous
 meetings held in-person in Region A, B, or C; or remotely in the nights of
 one of those regions.
 
-| 3 meetings ago | 2 meetings ago | Last Meeting | Remote Selection |
+| 3 meetings ago | 2 meetings ago | Last Meeting | Online Selection |
 | -------------- | -------------- | ------------ | ---------------- |
-| Any | Any | In-Person, A | A Night |
-| Any | Remote, A Night | Remote, B Night | C Night |
-| Remote A Night | In-Person B | Remote B Night | C Night |
-| In-Person A | In-Person B | Remote B Night | A Night |
-| In-Person A | In-Person A | Remote A Night | see below |
+| Any | Any | In-Person A | A Night |
+| Any | Online A Night | Online B Night | C Night |
+| Online A Night | In-Person B | Online B Night | C Night |
+| In-Person A | In-Person B | Online B Night | A Night |
+| In-Person A | In-Person A | Online A Night | see below |
+| Online A Night | Online B Night | Online C Night | A Night |
 
 Basically this table follows two rules:
 1) Even ever a fully online meeting follows and in-person meeting, the online meeting that is used that disadvantages most the participants of the time zone where the in-person meeting was held.
