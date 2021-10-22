@@ -181,7 +181,7 @@ As more parallel sessions usually also mean more conflicts,
 chairs are encouraged to request plenary meeting time carefully but also based on realistic planning to avoid running over time.
 Use of interim meetings should be consider instead where possible and sensible, as discussed in Section {{full-limited}}.
 
-# Additiona Considerations and Recommendations
+# Additional Considerations and Recommendations
 
 ## Full vs. limited agenda (and interim meetings) {#full-limited}
 
@@ -204,8 +204,6 @@ Use of (more) online interim meetings can also help to reduce scheduling conflic
 and allows for a more are optimal scheduled for the key participants. Of course these interim meetings are less likely
 to attract people with casual interest but provide a good opportunity for the most active participants of a group to
 have detailed technical discussions and solve recorded issues efficiently.
-
-
 
 ## Flexibility of time usage
 
