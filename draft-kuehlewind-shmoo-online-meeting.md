@@ -221,7 +221,7 @@ working group sessions within the usually five main meeting days but have some o
 As the Hackathon for online only meetings is
 usually held in the week before the online plenary meeting {{?I-D.ietf-shmoo-hackathon}}, that week is already a highly active
 week for many IETF participants and might provide an opportunity to schedule a few selected sessions.
-If only one session at a time needs to be scheduled, it iseasier to use a time slot that is well
+If only one session at a time needs to be scheduled, it is easier to use a time slot that is well
 assessable for most people in the community in various time zones. This might work especially well for
 sessions that are of high interest for a large part of community, such as BoFs and
 dispatch meetings, and therefore hard to schedule during the main IETF week.
