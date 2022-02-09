@@ -36,40 +36,40 @@ informative:
 
 This document provides guidelines for the planning and organization of fully online meetings, regarding
 the number, length, and composition of sessions on the meeting agenda. These guidelines are based
-on the experience after the COVID-19 pandemic in 2020.
+on the experience during the COVID-19 pandemic.
 
 --- middle
 
 # Introduction
 
 In 2020, the COVID-19 pandemic forced the IETF to move all its plenary meetings to online-only events.
-This document mainly records the experience gained by holding all three plenary meetings in 2020 fully online  
-and noting down the guidelines that have been followed since. The aim of this document is to determine rough
-consensus of these guidelines in the sense that the most participants are sufficiently satisfied 
+This document records the experience gained by holding plenary meetings fully online
+and the guidelines that have evolved from this experience. The aim of this document is to determine rough
+consensus of these guidelines in the sense that the most participants are sufficiently satisfied
 with the current organization of fully online events. These guidelines, however, document only one option
 of running fully online meetings. But as the IETF has done for in-person meetings, changes to the organization
-of the meetings and the meeting agenda should be experimented with in the process of establishing future meeting guidelines. 
+of the meetings and the meeting agenda should be experimented with in the process of establishing future meeting guidelines.
 
 # Some History
 
 When the WHO declared a world-wide pandemic in March 2020, the IETF had to quickly cancel its plenary meeting
-and organize an online replacement instead (within less than two weeks). At that point, for this
+and organize an online replacement (within less than two weeks). For this
 first online-only meeting, the agenda was reduced to a set of sessions that benefitted most from cross-area
-participation, like BoFs, first-time meetings of a new working groups, or dispatch sessions, as well as the 
-administrative plenary in order to organize the official hand-over procedures that occur at the March meeting. 
+participation, like BoFs, first-time meetings of a new working groups, and dispatch sessions, as well as the
+administrative plenary in order to organize the official hand-over procedures that occur at the March meeting.
 
-With such an reduced
+With such a reduced
 agenda, it was possible to organize the meeting within roughly 2 sessions (about 4 hours) a day and a maximum of two
-parallel tracks. This was possible as all working group meetings were instead moved to interims which were then distributed over
+parallel tracks. This was possible as all working group meetings were moved to interims which were then distributed over
 the coming six weeks. However, this was often perceived as increased load over a longer time. But at that point of
 time there was not necessarily an expectation that the situation would continue as long as it did.
 
-For the following meetings in 2020, the online schedule was retained in a fashion similar to an in-person
+For the following meetings in 2020, the online schedule was switched back to be similar to an in-person
 meeting (1-2 hour slots and 8-9 parallel tracks as described below), however, still with a reduced total length
 of initially 5 hours a day and then 6 hours with longer breaks.
 
 All fully online meetings in 2020 have followed the time zone of the planned in-person meeting
-location, but starting roughly around noon instead. Some flexibility with the start time to be "around"
+location, but starting roughly around noon. Some flexibility with the start time to be "around"
 noon has been used to mitigate the worse
 possible time slots, even though, given the distribution of participants it is not possible to
 avoid certain hours entirely. The in-person meeting location follows the 1-1-1 rule as documented in {{RFC8719}}
@@ -80,8 +80,8 @@ following roughly the 1-1-1 rule to share the pain has/seems to have rough conse
 
 ## Time Zone Selection
 
-This time selection enables to have 2 out of 3 fully online IETF plenary meetings 
-during the day from most participants. Basically every full online meeting is for two regions 
+This time selection enables to have 2 out of 3 fully online IETF plenary meetings
+during the day from most participants. Basically every full online meeting is for two regions
 of the three regions described in {{!RFC8179}}, roughly speaking, after sunrise or after dinner.
 This has the tradeoff that it maps the third region in middle of night. However, that also means
 for most participants only one remote meeting per year might
@@ -118,7 +118,7 @@ one of those regions.
 | Online A Night | Online B Night | Online C Night | A Night |
 
 Basically this table follows two rules:
-1) When ever a fully online meeting follows and in-person meeting, the online meeting time is used that disadvantages most the participants of the time zone where the in-person meeting was held.
+1) When ever a fully online meeting follows an in-person meeting, the online meeting time is used that disadvantages most the participants of the time zone where the in-person meeting was held.
 2) If multiple fully online meetings follow each other, the time zone selection should be rotated based on the most recent time zones that the in-person meetings were held in.
 
 The final case occurs in the rare event that back-to-back in-person plenaries
@@ -133,17 +133,17 @@ remote meeting, and IETF 111 is a 'Europe Night' remote meeting.
 ## Number of Days and Total Hours per Day
 
 Online meetings have converged to run over 5 days with 6-hour meeting days, roughly.
-Only, the administrative plenary, which concludes with multiple open mic sessions, is not necessarily time-bounded.
+Only the administrative plenary, which concludes with multiple open mic sessions, is not necessarily time-bounded.
 
 Based on the experience so far, 6 hours of online meetings, with two 30 minutes breaks,
-appear to be potentially a natural limited of what is handleable for most participants.
+appears to be potentially a natural limit of what is handleable for most participants.
 Respectively, the meeting survey after IETF 109 has indicated a high satisfaction with the distribution of sessions
 over 5 days but only a medium satisfaction with the
-overall length of each day [https://www.ietf.org/blog/ietf108-survey-results-informed-planning/]. 
+overall length of each day [https://www.ietf.org/blog/ietf108-survey-results-informed-planning/].
 
 While there is a possible trade-off between shorter but more days,
-a compact and potentially intense meeting was slightly prefer from the beginning by the community.
-And, different than for in-person meetings,  also utilize time during the 
+a compact and potentially intense meeting was slightly preferred from the beginning by the community.
+And, different than for in-person meetings,  also utilize time during the
 weekend was never considered as a possible option.
 So far, it was possible for all meetings to fit the requested number of sessions within 5 days, with the
 respective number of parallel tracks, see Section {{tracks}}.
@@ -152,19 +152,19 @@ respective number of parallel tracks, see Section {{tracks}}.
 
 For fully online meetings there are typically less sessions per day, than for in-person meetings,
 in order to keep the overall meeting day to at roughly 6 hours.
-The reduction of the number of sessions per day let to the practice of offering chairs only two options for
+The reduction of the number of sessions per day led to the practice of offering chairs only two options for
 session length (instead of three), in order to make session scheduling more practical.
 
 At IETF-108, based on an indicated preference of the community, 50 and 100 minute slot were used,
 with only 10 minutes breaks, in order to keep the overall day length at 5 hours.
 This resulted in many sessions going over time and thereby clearly indicated that only 10 minutes for breaks are not
-practical. 
+practical.
 
 The survey after IETF-109 showed a high satisfaction with 60/120 minute session lengths and 30 minute breaks,
 and a significant improvement in satisfaction over IETF-108. [https://www.ietf.org/blog/ietf-109-post-meeting-survey/]
 
 While the option to shorten the breaks was discussed during the later meetings,
-a saving of in total 10-20 minutes per day might not balance the need to use the breaks for recreation or 
+a saving of in total 10-20 minutes per day might not balance the need to use the breaks for recreation or
 at least some socialising.
 
 ## Number of Parallel Tracks {#tracks}
@@ -175,7 +175,7 @@ desirable to minimise the number of parallel tracks by balancing the requested s
 
 But if the total number of requested sessions exceeds the capacity of the usual 8 parallel tracks, it
 is possible for a fully online meeting to simply use more tracks. This also means, if the number of meeting days is seen as fixed, this decision
-is implicitly made by the working group chairs requesting a certain number of sessions and length. 
+is implicitly made by the working group chairs requesting a certain number of sessions and length.
 
 As more parallel sessions usually also mean more conflicts,
 chairs are encouraged to request plenary meeting time carefully but also based on realistic planning to avoid running over time.
@@ -201,7 +201,7 @@ make it more difficult for people to join and as such needs to be balanced with 
 better over the entirely year by a more regular use of interim meetings.
 
 Use of (more) online interim meetings can also help to reduce scheduling conflicts during an IETF week
-and allows for a more are optimal scheduled for the key participants. Of course these interim meetings are less likely
+and allow for a more optimal schedule for the key participants. Of course these interim meetings are less likely
 to attract people with casual interest but provide a good opportunity for the most active participants of a group to
 have detailed technical discussions and solve recorded issues efficiently.
 
@@ -213,33 +213,33 @@ that can help to reduce conflicts during the plenary meeting.
 Online meetings provide an opportunity to use more time more flexibly. While for an in-person meeting all
 sessions have to be fitted into the available time people are willing to travel at once (usually roughly a week), online meetings do not have
 that constraint. Therefore for the planning of online meetings, there is a trade-off between the number of parallel tracks, where more parallel tracks
-mean more potential conflicts (as least of high-active participants), and the overall time in terms of hours per day or 
+mean more potential conflicts (as least of high-active participants), and the overall time in terms of hours per day or
 total days used.
 
 As one example, it would be possible to keep most regular
-working group sessions within the usually five main meeting days but have some of the more conflicted sessions in other dedicated time slots. 
+working group sessions within the usually five main meeting days but have some of the more conflicted sessions in other dedicated time slots.
 As the Hackathon for online only meetings is
-usually held in the week before the online plenary meeting {{?I-D.ietf-shmoo-hackathon}}, that week is already a high active
-week for many IETF participants and might provide an opportunity to schedule a few selected sessions. 
-If only one session at a time needs to be scheduled, it easier to use a time slot that is well
-assessable for most people in the community in various time zones. This might make especially sense for 
-session that are of high interest for a large part of community, such as BoFs or
-dispatch meetings, and therefore hard to schedule during the main IETF week. 
+usually held in the week before the online plenary meeting {{?I-D.ietf-shmoo-hackathon}}, that week is already a highly active
+week for many IETF participants and might provide an opportunity to schedule a few selected sessions.
+If only one session at a time needs to be scheduled, it is easier to use a time slot that is well
+assessable for most people in the community in various time zones. This might work especially well for
+sessions that are of high interest for a large part of community, such as BoFs and
+dispatch meetings, and therefore hard to schedule during the main IETF week.
 
-## Chances for inclusivity and Lessons Learnt on socilizing
+## Chances for inclusivity and Lessons Learnt on socializing
 
 Participation at the most recent online only meetings was rather high and had a quite stable per-country distribution,
 even though time zones were rotated. This indicates that online meetings support a more easy and therefore potentially
 broader participation than in-person meetings where participation is often fluctuating based on the location.
 
 However, it has also been recognised that the online meeting does not provide an equivalent opportunity to socialize.
-The observed slight decrease in submission of new (-00) drafts, while the overall number of draft submission and
-productivity seem to stay stable, might also be an indication of the dismiss of these interactions. The increase in interim
+The observed slight decrease in submission of new (-00) drafts, while the overall number of draft submissions and
+productivity seem to stay stable, might also be an indication of the loss of these interactions. The increase in interim
 meetings potentially compensates for these missing interactions for continuous work (or may even increase
 productivity there), but seems to be less adequate to spark new ideas.
 
 None of the data observed so far can, however, be interpreted as showing a significant trend. However, these factors
-should be consider for the organization of future online-only meetings in replacement or addition to in-person meetings.
+should be considered for the organization of future online-only meetings in replacement or addition to in-person meetings.
 
 ## Experiments
 
