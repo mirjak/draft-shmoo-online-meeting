@@ -20,7 +20,7 @@ author:
   -
     ins: M. Duke
     name: Martin Duke
-    org: F5 Networks, Inc.
+    org: Google
     email: martin.h.duke@gmail.com
 
 
