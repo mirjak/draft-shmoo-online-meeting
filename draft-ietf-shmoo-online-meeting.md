@@ -1,7 +1,7 @@
 ---
 title: Guidelines for the Organization of Fully Online Meetings
 abbrev: Organization Online Meetings
-docname: draft-kuehlewind-shmoo-online-meeting-latest
+docname: draft-ietf-shmoo-online-meeting-latest
 date:
 category: info
 
