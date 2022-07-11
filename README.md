@@ -2,9 +2,9 @@
 
 This is the working area for the individual Internet-Draft, "Guidelines for the Organization of Fully Online Meetings".
 
-* [Editor's Copy](https://mirjak.github.io/draft-shmoo-online-meeting/#go.draft-kuehlewind-shmoo-online-meeting.html)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-kuehlewind-shmoo-online-meeting)
-* [Compare Editor's Copy to Individual Draft](https://mirjak.github.io/draft-shmoo-online-meeting/#go.draft-kuehlewind-shmoo-online-meeting.diff)
+* [Editor's Copy](https://mirjak.github.io/draft-shmoo-online-meeting/#go.draft-ietf-shmoo-online-meeting.html)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-ietf-shmoo-online-meeting)
+* [Compare Editor's Copy to Individual Draft](https://mirjak.github.io/draft-shmoo-online-meeting/#go.draft-ietf-shmoo-online-meeting.diff)
 
 ## Building the Draft
 
