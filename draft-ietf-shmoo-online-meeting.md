@@ -49,6 +49,9 @@ consensus of these guidelines in the sense that the most participants are suffic
 with the current organization of fully online events. These guidelines, however, document only one option
 of running fully online meetings. But as the IETF has done for in-person meetings, changes to the organization
 of the meetings and the meeting agenda should be experimented with in the process of establishing future meeting guidelines.
+Similarly, this document does not cover hybrid meeting (meaning meetings that have higher remote participation 
+than onsite participation). However, some of the experience gained from fully online meetings might also
+provide input for decisions regarding the organization of hybrid meetings.
 
 # Some History
 
