@@ -72,9 +72,9 @@ All fully online meetings in 2020 have followed the time zone of the planned in-
 location, but starting roughly around noon. Some flexibility with the start time to be "around"
 noon has been used to mitigate the worse
 possible time slots, even though, given the distribution of participants it is not possible to
-avoid certain hours entirely. The in-person meeting location follows the 1-1-1 rule as documented in {{RFC8719}}
+avoid certain hours entirely. The in-person meeting location follows the 1-1-1 guideline as documented in {{RFC8719}}
 to rotate between Asia, Europe,  and North America. While the exact time slot used had led to various discussions,
-following roughly the 1-1-1 rule to share the pain has/seems to have rough consensus.
+following roughly the 1-1-1 guideline to share the pain has/seems to have rough consensus.
 
 # Guidelines for Online Meeting Planning
 
@@ -101,9 +101,9 @@ throughout the course of the global day, to maximize the ease of participants
 to occasionally attend regardless of their location and what time of day is
 optimal for their schedule.
 
-### Rules for selection
+### Guidelines for selection
 
-The IETF will select a start time from these three choices based on the past
+The IETF should select a start time from these three choices based on the past
 three meetings. The following table covers all permutations of previous
 meetings held in-person in Region A, B, or C; or remotely in the nights of
 one of those regions.
@@ -117,15 +117,15 @@ one of those regions.
 | In-Person A | In-Person A | Online A Night | see below |
 | Online A Night | Online B Night | Online C Night | A Night |
 
-Basically this table follows two rules:
+Basically this table follows two guidelines:
 1) When ever a fully online meeting follows an in-person meeting, the online meeting time is used that disadvantages most the participants of the time zone where the in-person meeting was held.
 2) If multiple fully online meetings follow each other, the time zone selection should be rotated based on the most recent time zones that the in-person meetings were held in.
 
 The final case occurs in the rare event that back-to-back in-person plenaries
 occur in the same region. In this case, find the most recent meeting that was
 neither in 'A' (if in person) nor in 'A' night (if remote). If this meeting
-was in-person in region 'B', then the next meeting will be in 'B' Night. If it
-was remote in 'B' Night, the next meeting will be in 'C' Night.
+was in-person in region 'B', then the next meeting should be in 'B' Night. If it
+was remote in 'B' Night, the next meeting should be in 'C' Night.
 
 To initialize this algorithm, IETF 112 is considered as an 'Asia Night'
 remote meeting, and IETF 111 is a 'Europe Night' remote meeting.
