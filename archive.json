@@ -1,0 +1,464 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2021-05-23T01:15:34.754610+00:00",
+  "repo": "mirjak/draft-shmoo-online-meeting",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 3,
+      "id": "MDU6SXNzdWU4ODc3NDM2NzA=",
+      "title": "Set start times",
+      "url": "https://github.com/mirjak/draft-shmoo-online-meeting/issues/3",
+      "state": "CLOSED",
+      "author": "martinduke",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "The current convention of \"noon local time\" is semi-arbitrary, and in the event of a planned online meeting, there may be no \"local time\" to use.\r\n\r\nOn the list, we discussed the 0000/0800/1600 UTC rotation. Mirja suggested 0500/1200/2100 as slightly more optimized, and I'm happy to take that suggestion.\r\n\r\nPR to follow.",
+      "createdAt": "2021-05-11T16:05:58Z",
+      "updatedAt": "2021-05-12T08:54:57Z",
+      "closedAt": "2021-05-12T08:54:57Z",
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "Thanks. I was planning to update the draft and add a proposal anyway (just this week id super full as there is a holiday tomorrow); so a PR would be more than welcome!\r\n\r\nHere is as a reference what I originally proposed to the list:\r\n\r\n```\r\nSo I think it might actually be worth to think about picking three time slots with 8h offset and rotated between those rather than orienting too much towards the local time. Participants are not equally distributed over all time zone; and I don\u2019t mean that some zones have more people than other but that there are time zones in the world where there is no land and as such no-one lives. And so not all starting times work equally well. This is more or less one of the reason why we didn\u2019t start a fixed local time for the last couple of meetings but shifted one hour in one or the other direction (to basically decrease the overall pain at least a bit).\r\n\r\nI would propose the following slots (with the limitation that the first slot always has to be in summer to work a bit better for both China and Australian/New Zealand). I propose the slots because I think they are probably as good as possible for most of the participants. However, they are more or less also reflecting the start at 13:00 in either Europe, China, or west coast US time we used so far. Or you can also see them to start at 5:00 or 6:00 in either Europe, China, or West Coast USA.\r\n\r\nBerlin (Germany)\t14:00:00\tCEST\tUTC+2 hours\r\nBeijing (China)\t\t20:00:00\tCST\tUTC+8 hours\r\nSydney (Australia)\t22:00:00\tAEST\tUTC+10 hours\r\nWellington (New Zealand)00:00:00\tNZST\tUTC+12 hours\r\nNew York (USA\t\t08:00:00\tEDT\tUTC-4 hours\r\nSan Francisco (USA)\t05:00:00\tPDT\tUTC-7 hours\r\nUTC (GMT)\t\t12:00:00\t\t\t\r\n\r\nBerlin (Germany)\t22:00:00\tCET\tUTC+1 hour\r\nBeijing (China)\t\t05:00:00\tCST\tUTC+8 hours\r\nSydney (Australia)\t08:00:00\tAEDT\tUTC+11 hours\r\nWellington (New Zealand)10:00:00\tNZDT\tUTC+13 hours\r\nNew York (USA)\t\t16:00:00\tEST\tUTC-5 hours\r\nSan Francisco (USA)\t13:00:00\tPST\tUTC-8 hours\r\nUTC (GMT)\t\t21:00:00\t\t\r\n\r\nBerlin (Germany)\t06:00:00\tCET\tUTC+1 hour\r\nBeijing (China)\t\t13:00:00\tCST\tUTC+8 hours\r\nSydney (Australia)\t16:00:00\tAEDT\tUTC+11 hours\r\nWellington (New Zealand)18:00:00\tNZDT\tUTC+13 hours\r\nNew York (USA)\t\t00:00:00\tEST\tUTC-5 hours\r\nSan Francisco (USA)\t21:00:00\tPST\tUTC-8 hours\r\nUTC (GMT)\t\t05:00:00\r\n```\r\n\r\nI came up with these slots by starring at this page for a while:\r\n\r\nhttps://www.timeanddate.com/worldclock/meetingtime.html?day=8&month=12&year=2021&p1=204&p2=33&p3=240&p4=264&p5=179&p6=224&iv=0\r\n\r\nBut note that the picture looks slightly different if you select a date that is in EU/US winter time and AUS/NZ summer time.",
+          "createdAt": "2021-05-11T16:20:29Z",
+          "updatedAt": "2021-05-11T16:20:29Z"
+        },
+        {
+          "author": "martinduke",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "I would encourage us not to overthink the summer/winter thing. It's too complicated.",
+          "createdAt": "2021-05-11T16:32:40Z",
+          "updatedAt": "2021-05-11T16:32:40Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "The main point is that the mapping I provided above is only correct for northern hemisphere winter. I guess 20:00 UTC is probably slightly better in northern hemisphere summer than 21:00 UTC:\r\n\r\n```\r\nBerlin (Germany)\t22:00:00\tCEST\tUTC+2 hours\r\nBeijing (China)\t\t04:00:00\tCST\tUTC+8 hours\r\nSydney (Australia)\t06:00:00\tAEST\tUTC+10 hours\r\nWellington (New Zealand)08:00:00\tNZST\tUTC+12 hours\r\nNew York (USA)\t\t16:00:00\tEDT\tUTC-4 hours\r\nSan Francisco (USA)\t13:00:00\tPDT\tUTC-7 hours\r\nCorresponding UTC (GMT)\t20:00:00\r\n```\r\n\r\nHowever it's not a huge difference. But I think it would be good to note that this slot is preferred to be used in northern hemisphere winter.",
+          "createdAt": "2021-05-12T07:42:41Z",
+          "updatedAt": "2021-05-12T07:42:41Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "Actually, the 20:00 UTC time in summer is slightly worth for China, so maybe really not worth it...",
+          "createdAt": "2021-05-12T07:45:25Z",
+          "updatedAt": "2021-05-12T07:45:25Z"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "MDU6SXNzdWU4ODk4NTI4MTk=",
+      "title": "Naming of time slots",
+      "url": "https://github.com/mirjak/draft-shmoo-online-meeting/issues/5",
+      "state": "CLOSED",
+      "author": "mirjak",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "The new text says:\r\n\r\n`0500 (\"Asia\"), 1200 (\"Europe\"), or 2100 (\"North America\") UTC`\r\n\r\nThis is based on the noon starting time. However, you could also see this as starting 5/6am at the local time and then it would be \r\n\r\n`0500 (\"Europe\"), 1200 (\"North America\"), or 2100 (\"Asia\") UTC`\r\n\r\nSo not sure if adding these label like this really makes sense or it merely confusing...",
+      "createdAt": "2021-05-12T09:04:29Z",
+      "updatedAt": "2021-05-17T16:17:30Z",
+      "closedAt": "2021-05-17T16:17:30Z",
+      "comments": []
+    },
+    {
+      "number": 7,
+      "id": "MDU6SXNzdWU4OTM2MDkyODI=",
+      "title": "Bikeshed on ideal start times",
+      "url": "https://github.com/mirjak/draft-shmoo-online-meeting/issues/7",
+      "state": "OPEN",
+      "author": "martinduke",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "The draft currently has the slots as UTC 0500/1200/2100. I believe that 0700/1500/2200 might be better.\r\n\r\nReasons:\r\n- The Asia/Europe/NA fits more into the conventional notion of the workday (~0800-1800) -- which matters when we use criteria that explicitly considers the fairness to these regions, as this draft does\r\n- In the attached screenshots, there are fewer bold slots (where part of the sessions fall into the 12am-6am period). India gets one more bold meeting, but China and the US West Coast get one less, which frankly seems like a good trade in both raw population and actual IETF participant terms. \r\n\r\nThere's a decent case for moving 2200 to 2300 -- slighly better for Asia while pushing Eastern Time an hour past midnight in the summer. That worsens the bold stats a bit, but also makes the slots exactly 8 hours apart.\r\n\r\n![northern summer](https://user-images.githubusercontent.com/24398865/118535506-67d72200-b6ff-11eb-9615-47c2ff17ef17.png)\r\n![southern summer](https://user-images.githubusercontent.com/24398865/118535523-6a397c00-b6ff-11eb-8544-49db0f4b8613.png)\r\n\r\n",
+      "createdAt": "2021-05-17T18:57:10Z",
+      "updatedAt": "2021-05-21T21:05:48Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "martinduke",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "The upper chart is northern summer, the lower chart is southern summer",
+          "createdAt": "2021-05-17T19:01:27Z",
+          "updatedAt": "2021-05-17T19:01:27Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "Given this is a already marked as a bikeshed, here is my comment: Not sure if just assuming 12am-6am as bad is the right metric. First, I'm not a morning person but if really needed I would find starting at 5am still acceptable. Second and more important, it really is a difference if only e.g. 1h is overlapping with this slot or the whole meeting. For me the starting times at 12am, 1am, 2am, 3am, or 4am should really be minimised and that's less often the case in the 5/12/21 case.",
+          "createdAt": "2021-05-17T19:14:06Z",
+          "updatedAt": "2021-05-17T19:17:34Z"
+        },
+        {
+          "author": "martinduke",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "I do think it's better for Eastern Time in the \"North America\" slot to not be 17:00-23:00. I also think there's strong support on the list for a slot oriented closer to the working day. But we can just leave the issue open for now.",
+          "createdAt": "2021-05-18T14:11:33Z",
+          "updatedAt": "2021-05-18T14:11:33Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "I think the trade-off we are discussing is to \"optimise\" each selected slot for one region, or take a slot that is more or less reasonable for two regions at a time but never really optimal for any one region. Yes, but let's wait for more input from others!",
+          "createdAt": "2021-05-18T14:14:47Z",
+          "updatedAt": "2021-05-18T14:14:47Z"
+        },
+        {
+          "author": "martinduke",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Here's a read-only link to the spreadsheet, if people want to make a copy and play with their own alternatives:\r\nhttps://docs.google.com/spreadsheets/d/18YDIkYXhTKCH-bJq-aaqACUXtOAdsTDzLEhDYEo_eqs/edit?usp=sharing\r\n",
+          "createdAt": "2021-05-19T19:27:33Z",
+          "updatedAt": "2021-05-19T19:27:33Z"
+        },
+        {
+          "author": "mcr",
+          "authorAssociation": "NONE",
+          "body": "I believe that if you offer any kind of algorithmic or heuristic for picking a best time, that there will just be continual complaints from those who have \"pain\" that time.  By establishing that the meeting start time is negotiable, there will be endless negotiation.  So don't.  9am start time a the location the LLC would have put a meeting.  If this is in some post-pandemic situation where we are having virtual meetings that are not replacing a physical meeting, then again, let the LLC designate a location.",
+          "createdAt": "2021-05-20T11:18:05Z",
+          "updatedAt": "2021-05-20T11:18:05Z"
+        },
+        {
+          "author": "martinduke",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "> \r\n> \r\n> I believe that if you offer any kind of algorithmic or heuristic for picking a best time, that there will just be continual complaints from those who have \"pain\" that time. By establishing that the meeting start time is negotiable, there will be endless negotiation. So don't. 9am start time a the location the LLC would have put a meeting. If this is in some post-pandemic situation where we are having virtual meetings that are not replacing a physical meeting, then again, let the LLC designate a location.\r\n\r\nI simply don't understand why you think an algorithm enshrined in a consensus document is 'negotiable', but having the LLC pick a location which only matters for selecting a time won't create complaints.",
+          "createdAt": "2021-05-20T14:37:01Z",
+          "updatedAt": "2021-05-20T14:37:01Z"
+        },
+        {
+          "author": "Andrew-419",
+          "authorAssociation": "NONE",
+          "body": "Of the two options, I think that UTC 0500/1200/2100 is better as every region listed gets a single bold slot if you discount the 05-11 ones in the China and Pacific zones as this only edges into the designated bad time by a single hour.  \r\n\r\nI agree with the comments on the list that this discussion could continue indefinitely when effort could more usefully be focused elsewhere, especially when we seem to be on the cusp of being able to meet in person again.  It would be great to conclude the drafting effort soon and move on to other matters.",
+          "createdAt": "2021-05-20T16:59:17Z",
+          "updatedAt": "2021-05-20T16:59:17Z"
+        },
+        {
+          "author": "toerless",
+          "authorAssociation": "NONE",
+          "body": "I would prefer UTC1600 over UTC1500: Matches traditional in-person 9AM for PST location. In a simple metric of \"bad-hours 0100-0500\", this change would be better by one bad hour for japan and sydney but worse one bad hour for India.\r\n\r\nUTC0700 is fine as its traditional in-person 0900 for CET.\r\n\r\nUTC0200 would match traditional in-person 1000 for China. In my metric it would also save two bad-hours for Pacific and leaves East-Coast as he unchanged sore looser.\r\n",
+          "createdAt": "2021-05-20T20:55:01Z",
+          "updatedAt": "2021-05-20T20:55:01Z"
+        },
+        {
+          "author": "martinduke",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Hi Toerless, thanks for the constructive comments:\r\n\r\nI've attached the impact of your proposal. It has some advantages, but in IMO two big disadvantages:\r\n1) By deviating quite far from 8-hour shifts, it will reduce the chance that every time zone and schedule will have at least one slot per year that works well.\r\n2) The Eastern Time Zone has two absolutely brutal meeting slots per year.\r\n![toerless](https://user-images.githubusercontent.com/24398865/119049723-bdb4ff80-b975-11eb-8889-98abad8784a6.png)\r\n",
+          "createdAt": "2021-05-20T21:14:54Z",
+          "updatedAt": "2021-05-20T21:14:54Z"
+        },
+        {
+          "author": "toerless",
+          "authorAssociation": "NONE",
+          "body": "On Thu, May 20, 2021 at 02:15:14PM -0700, martinduke wrote:\n> Hi Toerless, thanks for the constructive comments:\n> \n> I've attached the impact of your proposal. It has some advantages, but in IMO two big disadvantages:\n> 1) By deviating quite far from 8-hour shifts, it will reduce the chance that every time zone and schedule will have at least one slot per year that works well.\n\nYou are assuming some personal metric not in evidence that seems to say that some\n6 hour slot is better than another.  You would have to show that metric and folks\nwould have to agree on it.\n\nMy simple metric is just total \"evil hours\" (hours between 0100 - 0500).\nWith that metric i just checked that three \"ideal starting hours\", one\nfor Amer, one for Eur, one for AsiaPac would not fare worse on that simple\nmetric than other options you gave.\n\n> 2) The Eastern Time Zone has two absolutely brutal meeting slots per year.\n> ![toerless](https://user-images.githubusercontent.com/24398865/119049723-bdb4ff80-b975-11eb-8889-98abad8784a6.png)\n\n5 total evil hours for EST.\n\nInstead of China, we could use India 0900 for AsiaPac, UTC 0400.\nThe India local TZ meeting that never happened in person *sigh* ;-)\n\nIn any case: having a simple explained metric to justify choices is a plus IMHO.\n\nHaving one \"sweet spot\" where IETF starts at local-tradition-time in any of\nthe biger ietf participant TZ would be a plus as well.\n\nCheers\n    toerless\n",
+          "createdAt": "2021-05-20T22:09:29Z",
+          "updatedAt": "2021-05-20T22:09:29Z"
+        },
+        {
+          "author": "martinduke",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Alright, at the risk of bikeshedding the bikeshed with the scoring system:\r\n\r\nI assessed a \"pain score\" (see below) for each session time. \r\n\r\nI did a simple average over the sample time zones (Sydney/JPN/China/India averaged for an Asia score, Eastern/Pacific averaged for NA, CET = Europe)\r\n\r\nIf I assigned 1 point for each hour of session between 0100 and 0500, I get this:\r\nPlan                     Asia    Europe     NA\r\n------                   -----    ------     -----\r\nMirja   5/12/21:     0.83    1.17         1.17\r\nMartin 7/15/22:     1.21    1.33         1.08\r\nToerless 2/7/16:     1.00    0.50        1.50\r\n\r\nIf I assign 3 points/hr for 0100-0500, 2 pts/hr for 00-01 and 05-06, and 1 pt for 22-24 and 06-08:\r\nPlan                  Asia    Europe     NA\r\n------               -----    ------     -----\r\nMirja 5/12/21:     4.38    5.17        5.58\r\nMartin 7/15/22:   5.50    5.33        4.83\r\nToerless 2/7/16:    4.54   3.33        6.92\r\n\r\nIMO we should have a principle of minimzing the maximum harm. Toerless, your proposed hours score quite poorly on that measure in either point system. With Mirja and I, it depends heavily on the scoring.\r\n\r\n",
+          "createdAt": "2021-05-20T23:03:57Z",
+          "updatedAt": "2021-05-20T23:03:57Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "> By deviating quite far from 8-hour shifts, it will reduce the chance that every time zone and schedule will have at least one slot per year that works well.\r\n\r\nI don't really understand this 8 hour argument because NA, EU, Asia are not 8 hours apart (of course depending on which exact time you look): so US and EU are roughly 8 hours apart, however if you look the \"extremes\" at PDT it's 9; CEST to China is 6 hours in summer and 7 in winter. I guess CEST to Sydney is 8 hours but only in summer (otherwise it's 10 hours). I guess the extreme is New Zealand here but that's already 10 hours in summer.\r\n\r\nIt feels like people want the 8 hours split because it looks nice but not sure if that is really a good reasoning if a slightly different split can reduce pain a bit for many people.",
+          "createdAt": "2021-05-21T08:20:39Z",
+          "updatedAt": "2021-05-21T08:20:39Z"
+        },
+        {
+          "author": "martinduke",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "I'm not religious about 8 hours, but there is value in spreading it\nthroughout the global day. I do want to make sure we provide at least some\nopportunities to people that can't join meetings during work hours, in the\nevenings, or whatever. If the meeting slots are bunched up that becomes\nharder.\n\nOn Fri, May 21, 2021 at 1:20 AM mirjak ***@***.***> wrote:\n\n> By deviating quite far from 8-hour shifts, it will reduce the chance that\n> every time zone and schedule will have at least one slot per year that\n> works well.\n>\n> I don't really understand this 8 hour argument because NA, EU, Asia are\n> not 8 hours apart (of course depending on which exact time you look): so US\n> and EU are roughly 8 hours apart, however if you look the \"extremes\" at PDT\n> it's 9; CEST to China is 6 hours in summer and 7 in winter. I guess CEST to\n> Sydney is 8 hours but only in summer (otherwise it's 10 hours). I guess the\n> extreme is New Zealand here but that's already 10 hours in summer.\n>\n> It feels like people want the 8 hours split because it looks nice but not\n> sure if that is really a good reasoning if a slightly different split can\n> reduce pain a bit for many people.\n>\n> \u2014\n> You are receiving this because you authored the thread.\n> Reply to this email directly, view it on GitHub\n> <https://github.com/mirjak/draft-shmoo-online-meeting/issues/7#issuecomment-845760221>,\n> or unsubscribe\n> <https://github.com/notifications/unsubscribe-auth/AF2EYEM4Q5OPZOBO3QI5PTLTOYJWTANCNFSM45BAUVYA>\n> .\n>\n",
+          "createdAt": "2021-05-21T15:14:47Z",
+          "updatedAt": "2021-05-21T15:14:47Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "Yes, it should be reasonable spread out but I don't think it has to be entirely equal because people are not distributed equally over the world as there are quite large parts in between where there is simply no land (and I refuse to optimise for Hawaii ;-) )",
+          "createdAt": "2021-05-21T15:56:21Z",
+          "updatedAt": "2021-05-21T15:56:21Z"
+        },
+        {
+          "author": "martinduke",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Again, this is not a geographic thing: it is that when meetings are remote, there are probably some people for whom 9 to 5 is not optimal.\r\n\r\nImagine we were all in one time zone. For a remote meeting, there would be some people for whom business hours would be a bad time: their job doesn't support their participation, or whatever. In this scenario, we would want some jitter in start times to mix it up a bit.\r\n\r\nIn practice, we are jittering by ~8 hours, so there isn't much of a problem. I would agree that an exact 8-hour difference is not an important goal.",
+          "createdAt": "2021-05-21T16:00:25Z",
+          "updatedAt": "2021-05-21T16:00:25Z"
+        },
+        {
+          "author": "toerless",
+          "authorAssociation": "NONE",
+          "body": "I guess the redeeming leftover of this work would really be if\nin the future a planned-to-be in-person IETF has to go virtual.\nAnd maybe even the next one.\n\nSo, i guess Martin could run his metric evaluation for each of the\npossible meeting location timezones from 8AM local time to eg: 12PM local\ntime and see which one is best for each time zone. This would forego\nthe multi-IETF optimization, but when the event actually happens again,\nthen the best time for the 2nd 3rd and so on IETF could be calculated\nby taking the prior cancelled time metrics into account.\n\nOf course, rescheduling after cancellation of in-person would be a\nmaybe unwelcome change for the folks who wanted to attend in-person anyhow,\nbut we could make the argument that overall cancellation should be better\nfor them given how they'd only hve to spend 6 hours/day.\n\nCheers\n    Toerless\n\n\nOn Fri, May 21, 2021 at 08:15:07AM -0700, martinduke wrote:\n> I'm not religious about 8 hours, but there is value in spreading it\n> throughout the global day. I do want to make sure we provide at least some\n> opportunities to people that can't join meetings during work hours, in the\n> evenings, or whatever. If the meeting slots are bunched up that becomes\n> harder.\n> \n> On Fri, May 21, 2021 at 1:20 AM mirjak ***@***.***> wrote:\n> \n> > By deviating quite far from 8-hour shifts, it will reduce the chance that\n> > every time zone and schedule will have at least one slot per year that\n> > works well.\n> >\n> > I don't really understand this 8 hour argument because NA, EU, Asia are\n> > not 8 hours apart (of course depending on which exact time you look): so US\n> > and EU are roughly 8 hours apart, however if you look the \"extremes\" at PDT\n> > it's 9; CEST to China is 6 hours in summer and 7 in winter. I guess CEST to\n> > Sydney is 8 hours but only in summer (otherwise it's 10 hours). I guess the\n> > extreme is New Zealand here but that's already 10 hours in summer.\n> >\n> > It feels like people want the 8 hours split because it looks nice but not\n> > sure if that is really a good reasoning if a slightly different split can\n> > reduce pain a bit for many people.\n> >\n> > ???\n> > You are receiving this because you authored the thread.\n> > Reply to this email directly, view it on GitHub\n> > <https://github.com/mirjak/draft-shmoo-online-meeting/issues/7#issuecomment-845760221>,\n> > or unsubscribe\n> > <https://github.com/notifications/unsubscribe-auth/AF2EYEM4Q5OPZOBO3QI5PTLTOYJWTANCNFSM45BAUVYA>\n> > .\n> >\n> \n> \n> -- \n> You are receiving this because you commented.\n> Reply to this email directly or view it on GitHub:\n> https://github.com/mirjak/draft-shmoo-online-meeting/issues/7#issuecomment-846024624\n\n-- \n---\n***@***.***\n",
+          "createdAt": "2021-05-21T21:05:48Z",
+          "updatedAt": "2021-05-21T21:05:48Z"
+        }
+      ]
+    }
+  ],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "MDExOlB1bGxSZXF1ZXN0NTk0MzEzMzgw",
+      "title": "Small # Introduction nits",
+      "url": "https://github.com/mirjak/draft-shmoo-online-meeting/pull/1",
+      "state": "MERGED",
+      "author": "jlivingood",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "And a suggestion on the last sentence, which read a bit oddly. These are as an individual and I do not feel strongly on the suggestions - just trying to help improve the doc. :-)",
+      "createdAt": "2021-03-17T00:14:25Z",
+      "updatedAt": "2021-03-17T09:56:12Z",
+      "baseRepository": "mirjak/draft-shmoo-online-meeting",
+      "baseRefName": "master",
+      "baseRefOid": "09bc590ecf599f01b28ff19af7a0ab28117a31b3",
+      "headRepository": "jlivingood/draft-shmoo-online-meeting",
+      "headRefName": "patch-1",
+      "headRefOid": "491e38c927c8334e744d9e385a8e4c7a008ffb17",
+      "closedAt": "2021-03-17T09:56:12Z",
+      "mergedAt": "2021-03-17T09:56:12Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "9612a5fe31d82736b14e94cd8962b95eb50f25c3"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjE0MTExNjE2",
+          "commit": {
+            "abbreviatedOid": "612d3bd"
+          },
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2021-03-17T09:55:44Z",
+          "updatedAt": "2021-03-17T09:55:45Z",
+          "comments": [
+            {
+              "originalPosition": 13,
+              "body": "```suggestion\r\nof the meetings and the meeting agenda should be experimented with in the process of establishing future meeting guidelines. \r\n```",
+              "createdAt": "2021-03-17T09:55:44Z",
+              "updatedAt": "2021-03-17T09:55:51Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "MDExOlB1bGxSZXF1ZXN0NTk0MzE3Mjk4",
+      "title": "Some History section nits & suggestions",
+      "url": "https://github.com/mirjak/draft-shmoo-online-meeting/pull/2",
+      "state": "MERGED",
+      "author": "jlivingood",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "As with others - comments as an individual. I also do not feel strongly on these - just trying to help improve readability. :-) \r\n\r\nOne item left open is \"More interim meetings are sometimes also perceived as increased load but may also help to make more continuous \r\nprogress.\" still reads a bit oddly but I suspect will be reworked in the future.",
+      "createdAt": "2021-03-17T00:26:09Z",
+      "updatedAt": "2021-03-17T09:52:48Z",
+      "baseRepository": "mirjak/draft-shmoo-online-meeting",
+      "baseRefName": "master",
+      "baseRefOid": "09bc590ecf599f01b28ff19af7a0ab28117a31b3",
+      "headRepository": "jlivingood/draft-shmoo-online-meeting",
+      "headRefName": "patch-2",
+      "headRefOid": "c9342febb1b3276346eb3ed9324cf46139008003",
+      "closedAt": "2021-03-17T09:52:48Z",
+      "mergedAt": "2021-03-17T09:52:48Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "c8a69d4bf58298e9edcdb117bd9763686c6b87fc"
+      },
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "Thx. Merged.",
+          "createdAt": "2021-03-17T09:52:43Z",
+          "updatedAt": "2021-03-17T09:52:43Z"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "number": 4,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjQxMDIwNzIw",
+      "title": "fix #3: start time rules",
+      "url": "https://github.com/mirjak/draft-shmoo-online-meeting/pull/4",
+      "state": "MERGED",
+      "author": "martinduke",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Fixes #3 ",
+      "createdAt": "2021-05-11T16:30:57Z",
+      "updatedAt": "2021-05-12T14:55:28Z",
+      "baseRepository": "mirjak/draft-shmoo-online-meeting",
+      "baseRefName": "master",
+      "baseRefOid": "9612a5fe31d82736b14e94cd8962b95eb50f25c3",
+      "headRepository": "martinduke/draft-shmoo-online-meeting",
+      "headRefName": "start-times",
+      "headRefOid": "ef5ee29c874be778a704e3521ec10d9694f0dac2",
+      "closedAt": "2021-05-12T08:54:57Z",
+      "mergedAt": "2021-05-12T08:54:57Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "0dc9afc33a3fed815ac66bbe8768a57674f6c6df"
+      },
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "Will merge. Should I add you as author @martinduke?",
+          "createdAt": "2021-05-12T08:50:25Z",
+          "updatedAt": "2021-05-12T08:50:25Z"
+        },
+        {
+          "author": "martinduke",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "> \r\n> \r\n> Will merge. Should I add you as author @martinduke?\r\n\r\nIt's up to you. I'm willing to help out as an author if you'd like",
+          "createdAt": "2021-05-12T14:55:28Z",
+          "updatedAt": "2021-05-12T14:55:28Z"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "number": 6,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjQ2MDE5Mjcz",
+      "title": "Fixing Nits in the PR",
+      "url": "https://github.com/mirjak/draft-shmoo-online-meeting/pull/6",
+      "state": "MERGED",
+      "author": "martinduke",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-05-17T16:47:08Z",
+      "updatedAt": "2021-05-17T17:15:51Z",
+      "baseRepository": "mirjak/draft-shmoo-online-meeting",
+      "baseRefName": "master",
+      "baseRefOid": "e6b92378cbf082a2133c6c3a1d4a1caf29cfad6a",
+      "headRepository": "martinduke/draft-shmoo-online-meeting",
+      "headRefName": "master",
+      "headRefOid": "5a8bdb7f72ab85f6f110dd748994d659a727e266",
+      "closedAt": "2021-05-17T17:15:51Z",
+      "mergedAt": "2021-05-17T17:15:51Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "2408524f52e8beda42452a914e20dea0f17e9912"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 8,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjQ3OTM2NTMw",
+      "title": "clarified responsbilities",
+      "url": "https://github.com/mirjak/draft-shmoo-online-meeting/pull/8",
+      "state": "OPEN",
+      "author": "martinduke",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-05-19T18:30:31Z",
+      "updatedAt": "2021-05-19T20:13:32Z",
+      "baseRepository": "mirjak/draft-shmoo-online-meeting",
+      "baseRefName": "master",
+      "baseRefOid": "58c5ef9af242a87573c9ecdd13dd545f4e55206e",
+      "headRepository": "martinduke/draft-shmoo-online-meeting",
+      "headRefName": "clarify",
+      "headRefOid": "869382a34eb81ec1def9d93f1443c93bc2b6b503",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "I guess so far usually it has been the IESG that decides about the start time or experiments with the start time, no...?",
+          "createdAt": "2021-05-19T19:21:13Z",
+          "updatedAt": "2021-05-19T19:21:13Z"
+        },
+        {
+          "author": "martinduke",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "> \r\n> \r\n> I guess so far usually it has been the IESG that decides about the start time or experiments with the start time, no...?\r\n\r\nYeah, but that's because there's no policy. I think the point of the draft is to allow the LLC to implement this without a lot of deliberation",
+          "createdAt": "2021-05-19T19:23:57Z",
+          "updatedAt": "2021-05-19T19:23:57Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "I'd say the distinction criteria is if it is a question about the meeting organisation that impacts participants/productivity or IETF finances. And I don't think there is any financial impact in selecting the starting time of an online meeting. So this would also clearly fall in the responsibility of the IESG for me and not the LLC board. I don't think it matters for the question of who is responsible if there is an agreed policy or not.\r\n\r\nAlso, previously, experiments where we started the in-person meeting at 10am rather than at 9am were also initiated and decided by the IESG. ",
+          "createdAt": "2021-05-19T20:10:09Z",
+          "updatedAt": "2021-05-19T20:10:09Z"
+        },
+        {
+          "author": "martinduke",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Alright, works for me.",
+          "createdAt": "2021-05-19T20:12:41Z",
+          "updatedAt": "2021-05-19T20:12:41Z"
+        }
+      ],
+      "reviews": []
+    }
+  ]
+}
