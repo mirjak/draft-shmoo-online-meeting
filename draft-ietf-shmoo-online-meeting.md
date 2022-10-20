@@ -146,7 +146,7 @@ overall length of each day [https://www.ietf.org/blog/ietf108-survey-results-inf
 
 While there is a possible trade-off between shorter but more days,
 a compact and potentially intense meeting was slightly preferred from the beginning by the community.
-And, different than for in-person meetings,  also utilizing time during the
+And, different than for in-person meetings, utilizing time during the
 weekend was never considered as a possible option.
 In 2020 and 2021, it was possible for all meetings to fit the requested number of sessions within 5 days, with the
 respective number of parallel tracks, see Section {{tracks}}.
