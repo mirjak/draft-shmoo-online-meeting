@@ -44,13 +44,13 @@ on the experience during the COVID-19 pandemic.
 
 In 2020, the COVID-19 pandemic forced the IETF to move all its plenary meetings to online-only events.
 This document records the experience gained by holding plenary meetings fully online
-and the guidelines that have evolved from this experience. The aim of this document is to determine rough
-consensus of these guidelines in the sense that the most participants are sufficiently satisfied
-with the current organization of fully online events. These guidelines, however, document only one option
-of running fully online meetings. But as the IETF has done for in-person meetings, changes to the organization
+and the guidelines that have evolved from this experience. The aim of this RFC is to document rough
+consensus of these guidelines in the sense that the most participants seemed sufficiently satisfied
+with the organization of fully online events as done in 2020 and 2021. These guidelines, however, document only one option
+of running fully online meetings. Similar as the IETF has done it for in-person meetings, changes to the organization
 of the meetings and the meeting agenda should be experimented with in the process of establishing future meeting guidelines.
-Similarly, this document does not cover hybrid meetings (meaning meetings that have higher remote participation
-than onsite participation). However, some of the experience gained from fully online meetings might also
+Also, this document does not cover hybrid meetings (meaning meetings that have higher remote participation
+than onsite participation). Still, some of the experience gained from fully online meetings might also
 provide input for decisions regarding the organization of hybrid meetings.
 
 # Some History
@@ -146,14 +146,14 @@ overall length of each day [https://www.ietf.org/blog/ietf108-survey-results-inf
 
 While there is a possible trade-off between shorter but more days,
 a compact and potentially intense meeting was slightly preferred from the beginning by the community.
-And, different than for in-person meetings,  also utilize time during the
+And, different than for in-person meetings,  also utilizing time during the
 weekend was never considered as a possible option.
-So far, it was possible for all meetings to fit the requested number of sessions within 5 days, with the
+In 2020 and 2021, it was possible for all meetings to fit the requested number of sessions within 5 days, with the
 respective number of parallel tracks, see Section {{tracks}}.
 
 ## Session/Break Length
 
-For fully online meetings there are typically less sessions per day, than for in-person meetings,
+For fully online meetings there are typically less sessions per day than for in-person meetings,
 in order to keep the overall meeting day to at roughly 6 hours.
 The reduction of the number of sessions per day led to the practice of offering chairs only two options for
 session length (instead of three), in order to make session scheduling more practical.
@@ -179,6 +179,7 @@ desirable to minimise the number of parallel tracks by balancing the requested s
 But if the total number of requested sessions exceeds the capacity of the usual 8 parallel tracks, it
 is possible for a fully online meeting to simply use more tracks. This also means, if the number of meeting days is seen as fixed, this decision
 is implicitly made by the working group chairs requesting a certain number of sessions and length.
+Respectively, IETF-111 used 9 paralell tracks for some of the session, but also leading to slightly more schedulin conflicts.
 
 As more parallel sessions usually also mean more conflicts,
 chairs are encouraged to request plenary meeting time carefully but also based on realistic planning to avoid running over time.
@@ -195,7 +196,7 @@ could have been a good one-time replacement, the value of cross-participation an
 has been recognised as important for continuous progress (and not only for newly initiated work).
 
 A highly concentrated meeting, in structure similar to the in-person plenary meeting, provides value for cross-participants.
-Further a well defined meeting time, rather than spreading many interims over the whole
+Further, a well defined meeting time, rather than spreading many interims over the whole
 year can make deconflicting with other non-IETF meetings easier.
 
 While the time during an in-person meeting can be used very intensively, even a compact and full online
@@ -214,7 +215,7 @@ This document recommends that new opportunities in the use and scheduling of onl
 that can help to reduce conflicts during the plenary meeting.
 
 Online meetings provide an opportunity to use more time more flexibly. While for an in-person meeting all
-sessions have to be fitted into the available time people are willing to travel at once (usually roughly a week), online meetings do not have
+sessions have to be fitted into the available time that people are willing to travel at once (usually roughly a week), online meetings do not have
 that constraint. Therefore for the planning of online meetings, there is a trade-off between the number of parallel tracks, where more parallel tracks
 mean more potential conflicts (as least of high-active participants), and the overall time in terms of hours per day or
 total days used.
@@ -229,26 +230,33 @@ assessable for most people in the community in various time zones. This might wo
 sessions that are of high interest for a large part of community, such as BoFs and
 dispatch meetings, and therefore hard to schedule during the main IETF week.
 
+An experiment where the adminstrative plenary was scheduled on Wednesday in the week before the official session schedule was run for IETF-112.
+The evaluation of the respective survey results indicated that this experiment led to reduction in scheduling conflict but also
+led to drop in plenary attendance, partly due to limited awareness (see [https://www.ietf.org/blog/ietf112-plenary-experiment-evaluation/]).
+
 ## Chances for inclusivity and Lessons Learnt on socializing
 
-Participation at the most recent online only meetings was rather high and had a quite stable per-country distribution,
+Participation at the online only meetings in 2021 was rather high and had a quite stable per-country distribution,
 even though time zones were rotated. This indicates that online meetings support a more easy and therefore potentially
 broader participation than in-person meetings where participation is often fluctuating based on the location.
 
 However, it has also been recognised that the online meeting does not provide an equivalent opportunity to socialize.
-The observed slight decrease in submission of new (-00) drafts, while the overall number of draft submissions and
+The observed slight decrease in submission of new (-00) drafts during 2020 and 2021, while the overall number of draft submissions and
 productivity seem to stay stable, might also be an indication of the loss of these interactions. The increase in interim
 meetings potentially compensates for these missing interactions for continuous work (or may even increase
 productivity there), but seems to be less adequate to spark new ideas.
 
-None of the data observed so far can, however, be interpreted as showing a significant trend. However, these factors
-should be considered for the organization of future online-only meetings in replacement or addition to in-person meetings.
+None of the data observed, however, can be interpreted as showing a significant trend. Still, these factors
+should be considered for the organization of future online only meetings in replacement or addition to in-person meetings.
 
 ## Experiments
 
 Similar as for in-person meetings, it is desirable to experiment with the meeting structure. Often only practical
 experience can answer open questions. It is recommended to not experiment with a larger number of different
 aspects at the same time, in order to be able to assess the outcome correctly. It is further recommended to announce any
-such experiment in advance, so people adjust to changes and potentially provide feedback.
+such experiment in advance, so people can adjust to changes and potentially provide feedback.
 
 # Acknowledgments
+
+Thanks to Brian Carpenter, Lars Eggert, Toreless Eckert, Charles Eckel, Jason Livingood, and Sanjeev Gupta for their review
+and many from more for their input and suggestions on the time zone discussion!
