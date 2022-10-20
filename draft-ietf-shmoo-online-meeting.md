@@ -231,7 +231,7 @@ sessions that are of high interest for a large part of community, such as BoFs a
 dispatch meetings, and therefore hard to schedule during the main IETF week.
 
 An experiment where the adminstrative plenary was scheduled on Wednesday in the week before the official session schedule was run for IETF-112.
-The evaluation of the respective survey results indicated that this experiment led to reduction in scheduling conflict but also
+The evaluation of the respective survey results indicated that this experiment led to reduction in scheduling conflicts but also
 led to drop in plenary attendance, partly due to limited awareness (see [https://www.ietf.org/blog/ietf112-plenary-experiment-evaluation/]).
 
 ## Chances for inclusivity and Lessons Learnt on socializing
