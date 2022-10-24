@@ -96,10 +96,10 @@ Table of Contents
    to the organization of the meetings and the meeting agenda should be
    experimented with in the process of establishing future meeting
    guidelines.  Hybrid meetings (meaning meetings that have higher
-   remote participation than onsite participation) than onsite
-   participation).  Still, some of the experience gained from fully
-   online meetings might also provide input for decisions regarding the
-   organization of hybrid meetings.
+   remote participation than onsite participation) are out of scope.
+   However, some of the experience gained from fully online meetings
+   might also provide input for decisions regarding the organization of
+   hybrid meetings.
 
 2.  Some History
 
