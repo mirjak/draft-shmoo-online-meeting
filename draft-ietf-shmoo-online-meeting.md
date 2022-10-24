@@ -50,7 +50,7 @@ with the organization of fully online events as done in 2020 and 2021. These gui
 of running fully online meetings. Like the procedure for in-person meetings, changes to the organization
 of the meetings and the meeting agenda should be experimented with in the process of establishing future meeting guidelines.
 Hybrid meetings (meaning meetings that have higher remote participation than onsite participation)
-than onsite participation). Still, some of the experience gained from fully online meetings might also
+are out of scope. However, some of the experience gained from fully online meetings might also
 provide input for decisions regarding the organization of hybrid meetings.
 
 # Some History
