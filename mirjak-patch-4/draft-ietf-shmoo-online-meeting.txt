@@ -5,8 +5,8 @@
 Network Working Group                                      M. Kuehlewind
 Internet-Draft                                                  Ericsson
 Intended status: Informational                                   M. Duke
-Expires: 23 April 2023                                            Google
-                                                         20 October 2022
+Expires: 27 April 2023                                            Google
+                                                         24 October 2022
 
 
         Guidelines for the Organization of Fully Online Meetings
@@ -45,7 +45,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 23 April 2023.
+   This Internet-Draft will expire on 27 April 2023.
 
 Copyright Notice
 
@@ -88,14 +88,14 @@ Table of Contents
    plenary meetings to online-only events.  This document records the
    experience gained by holding plenary meetings fully online and the
    guidelines that have evolved from this experience.  The aim of this
-   RFC is to document rough consensus of these guidelines in the sense
-   that the most participants seemed sufficiently satisfied with the
-   organization of fully online events as done in 2020 and 2021.  These
-   guidelines, however, document only one option of running fully online
-   meetings.  Similar as the IETF has done it for in-person meetings,
-   changes to the organization of the meetings and the meeting agenda
-   should be experimented with in the process of establishing future
-   meeting guidelines.  Also, this document does not cover hybrid
+   document is to define rough consensus of these guidelines in the
+   sense that the most participants seemed sufficiently satisfied with
+   the organization of fully online events as done in 2020 and 2021.
+   These guidelines, however, document only one option of running fully
+   online meetings.  Similar as the IETF has done it for in-person
+   meetings, changes to the organization of the meetings and the meeting
+   agenda should be experimented with in the process of establishing
+   future meeting guidelines.  Also, this document does not cover hybrid
    meetings (meaning meetings that have higher remote participation than
    onsite participation).  Still, some of the experience gained from
    fully online meetings might also provide input for decisions
