@@ -47,7 +47,7 @@ This document records the experience gained by holding plenary meetings fully on
 and the guidelines that have evolved from this experience. The aim of this document is to define rough
 consensus of these guidelines in the sense that the most participants seemed sufficiently satisfied
 with the organization of fully online events as done in 2020 and 2021. These guidelines, however, document only one option
-of running fully online meetings. Similar as the IETF has done it for in-person meetings, changes to the organization
+of running fully online meetings. Like the procedure for in-person meetings, changes to the organization
 of the meetings and the meeting agenda should be experimented with in the process of establishing future meeting guidelines.
 Hybrid meetings (meaning meetings that have higher remote participation than onsite participation)
 than onsite participation). Still, some of the experience gained from fully online meetings might also
