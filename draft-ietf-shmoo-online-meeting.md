@@ -44,7 +44,7 @@ on the experience during the COVID-19 pandemic.
 
 In 2020, the COVID-19 pandemic forced the IETF to move all its plenary meetings to online-only events.
 This document records the experience gained by holding plenary meetings fully online
-and the guidelines that have evolved from this experience. The aim of this RFC is to document rough
+and the guidelines that have evolved from this experience. The aim of this document is to define rough
 consensus of these guidelines in the sense that the most participants seemed sufficiently satisfied
 with the organization of fully online events as done in 2020 and 2021. These guidelines, however, document only one option
 of running fully online meetings. Similar as the IETF has done it for in-person meetings, changes to the organization
