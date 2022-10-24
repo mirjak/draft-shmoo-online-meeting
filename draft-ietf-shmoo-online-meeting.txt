@@ -5,8 +5,8 @@
 Network Working Group                                      M. Kuehlewind
 Internet-Draft                                                  Ericsson
 Intended status: Informational                                   M. Duke
-Expires: 1 April 2023                                             Google
-                                                       28 September 2022
+Expires: 27 April 2023                                            Google
+                                                         24 October 2022
 
 
         Guidelines for the Organization of Fully Online Meetings
@@ -45,7 +45,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 1 April 2023.
+   This Internet-Draft will expire on 27 April 2023.
 
 Copyright Notice
 
@@ -88,14 +88,18 @@ Table of Contents
    plenary meetings to online-only events.  This document records the
    experience gained by holding plenary meetings fully online and the
    guidelines that have evolved from this experience.  The aim of this
-   document is to determine rough consensus of these guidelines in the
-   sense that the most participants are sufficiently satisfied with the
-   current organization of fully online events.  These guidelines,
-   however, document only one option of running fully online meetings.
-   But as the IETF has done for in-person meetings, changes to the
-   organization of the meetings and the meeting agenda should be
+   document is to define rough consensus of these guidelines in the
+   sense that the most participants seemed sufficiently satisfied with
+   the organization of fully online events as done in 2020 and 2021.
+   These guidelines, however, document only one option of running fully
+   online meetings.  Like the procedure for in-person meetings, changes
+   to the organization of the meetings and the meeting agenda should be
    experimented with in the process of establishing future meeting
-   guidelines.
+   guidelines.  Hybrid meetings (meaning meetings that have higher
+   remote participation than onsite participation) are out of scope.
+   However, some of the experience gained from fully online meetings
+   might also provide input for decisions regarding the organization of
+   hybrid meetings.
 
 2.  Some History
 
@@ -234,15 +238,15 @@ Table of Contents
 
    While there is a possible trade-off between shorter but more days, a
    compact and potentially intense meeting was slightly preferred from
-   the beginning by the community.  And, different than for in-person
-   meetings, also utilize time during the weekend was never considered
-   as a possible option.  So far, it was possible for all meetings to
-   fit the requested number of sessions within 5 days, with the
-   respective number of parallel tracks, see Section Section 3.4.
+   the beginning by the community.  Unlike in-person meetings, utilizing
+   time during the weekend was never considered as a possible option.
+   In 2020 and 2021, it was possible for all meetings to fit the
+   requested number of sessions within 5 days, with the respective
+   number of parallel tracks, see Section Section 3.4.
 
 3.3.  Session/Break Length
 
-   For fully online meetings there are typically less sessions per day,
+   For fully online meetings there are typically less sessions per day
    than for in-person meetings, in order to keep the overall meeting day
    to at roughly 6 hours.  The reduction of the number of sessions per
    day led to the practice of offering chairs only two options for
@@ -279,7 +283,8 @@ Table of Contents
    meeting to simply use more tracks.  This also means, if the number of
    meeting days is seen as fixed, this decision is implicitly made by
    the working group chairs requesting a certain number of sessions and
-   length.
+   length.  Respectively, IETF-111 used 9 parallel tracks for some of
+   the session, but also leading to slightly more scheduling conflicts.
 
    As more parallel sessions usually also mean more conflicts, chairs
    are encouraged to request plenary meeting time carefully but also
@@ -302,7 +307,7 @@ Table of Contents
    progress (and not only for newly initiated work).
 
    A highly concentrated meeting, in structure similar to the in-person
-   plenary meeting, provides value for cross-participants.  Further a
+   plenary meeting, provides value for cross-participants.  Further, a
    well defined meeting time, rather than spreading many interims over
    the whole year can make deconflicting with other non-IETF meetings
    easier.
@@ -329,8 +334,8 @@ Table of Contents
 
    Online meetings provide an opportunity to use more time more
    flexibly.  While for an in-person meeting all sessions have to be
-   fitted into the available time people are willing to travel at once
-   (usually roughly a week), online meetings do not have that
+   fitted into the available time that people are willing to travel at
+   once (usually roughly a week), online meetings do not have that
    constraint.  Therefore for the planning of online meetings, there is
    a trade-off between the number of parallel tracks, where more
    parallel tracks mean more potential conflicts (as least of high-
@@ -351,28 +356,37 @@ Table of Contents
    and dispatch meetings, and therefore hard to schedule during the main
    IETF week.
 
+   An experiment where the adminstrative plenary was scheduled on
+   Wednesday in the week before the official session schedule was run
+   for IETF-112.  The evaluation of the respective survey results
+   indicated that this experiment led to reduction in scheduling
+   conflicts but also led to a slight drop in plenary attendance, partly
+   due to insufficient awareness (see [https://www.ietf.org/blog/
+   ietf112-plenary-experiment-evaluation/]).
+
 4.3.  Chances for inclusivity and Lessons Learnt on socializing
 
-   Participation at the most recent online only meetings was rather high
-   and had a quite stable per-country distribution, even though time
-   zones were rotated.  This indicates that online meetings support a
-   more easy and therefore potentially broader participation than in-
-   person meetings where participation is often fluctuating based on the
+   Participation at the online only meetings in 2021 was rather high and
+   had a quite stable per-country distribution, even though time zones
+   were rotated.  This indicates that online meetings support a more
+   easy and therefore potentially broader participation than in-person
+   meetings where participation is often fluctuating based on the
    location.
 
    However, it has also been recognised that the online meeting does not
    provide an equivalent opportunity to socialize.  The observed slight
-   decrease in submission of new (-00) drafts, while the overall number
-   of draft submissions and productivity seem to stay stable, might also
-   be an indication of the loss of these interactions.  The increase in
-   interim meetings potentially compensates for these missing
-   interactions for continuous work (or may even increase productivity
-   there), but seems to be less adequate to spark new ideas.
+   decrease in submission of new (-00) drafts during 2020 and 2021,
+   while the overall number of draft submissions and productivity seem
+   to stay stable, might also be an indication of the loss of these
+   interactions.  The increase in interim meetings potentially
+   compensates for these missing interactions for continuous work (or
+   may even increase productivity there), but seems to be less adequate
+   to spark new ideas.
 
-   None of the data observed so far can, however, be interpreted as
-   showing a significant trend.  However, these factors should be
-   considered for the organization of future online-only meetings in
-   replacement or addition to in-person meetings.
+   None of the data observed, however, can be interpreted as showing a
+   significant trend.  Still, these factors should be considered for the
+   organization of future online only meetings in replacement or
+   addition to in-person meetings.
 
 4.4.  Experiments
 
@@ -381,10 +395,15 @@ Table of Contents
    open questions.  It is recommended to not experiment with a larger
    number of different aspects at the same time, in order to be able to
    assess the outcome correctly.  It is further recommended to announce
-   any such experiment in advance, so people adjust to changes and
+   any such experiment in advance, so people can adjust to changes and
    potentially provide feedback.
 
 5.  Acknowledgments
+
+   Thanks to Brian Carpenter, Lars Eggert, Toreless Eckert, Charles
+   Eckel, Jason Livingood, and Sanjeev Gupta for their review and many
+   from more for their input and suggestions on the time zone
+   discussion!
 
 6.  References
 
