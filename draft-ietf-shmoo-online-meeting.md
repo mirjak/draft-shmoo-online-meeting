@@ -179,7 +179,7 @@ desirable to minimise the number of parallel tracks by balancing the requested s
 But if the total number of requested sessions exceeds the capacity of the usual 8 parallel tracks, it
 is possible for a fully online meeting to simply use more tracks. This also means, if the number of meeting days is seen as fixed, this decision
 is implicitly made by the working group chairs requesting a certain number of sessions and length.
-Respectively, IETF-111 used 9 paralell tracks for some of the session, but also leading to slightly more schedulin conflicts.
+Respectively, IETF-111 used 9 parallel tracks for some of the session, but also leading to slightly more scheduling conflicts.
 
 As more parallel sessions usually also mean more conflicts,
 chairs are encouraged to request plenary meeting time carefully but also based on realistic planning to avoid running over time.
