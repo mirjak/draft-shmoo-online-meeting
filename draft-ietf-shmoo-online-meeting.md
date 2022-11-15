@@ -216,7 +216,7 @@ With fewer sessions, chairs were offered only two options for session length
 IETF-108, based on an indicated preference of the community, scheduled 50- and
 100-minute slots, with 10-minute breaks, in order to keep the overall day length
 at 5 hours. This resulted in many sessions going over time, which indicated that
-10-minute for breaks are not practical.
+10 minutes for breaks is not practical.
 
 The survey after IETF-109 {{109-SURVEY}} showed high satisfaction with 60/120
 minute session lengths and 30 minute breaks, and a significant improvement in
