@@ -211,7 +211,7 @@ before (see {{?RFC9311}}).
 For fully online meetings there are typically fewer sessions per day than for
 in-person meetings, to keep the overall meeting day to at roughly 6 hours.
 With fewer sessions, chairs were offered only two options for session length
-(instead of three),
+(instead of three).
 
 IETF-108, based on an indicated preference of the community, scheduled 50- and
 100-minute slots, with 10-minute breaks, in order to keep the overall day length
