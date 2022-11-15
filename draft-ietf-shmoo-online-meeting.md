@@ -199,7 +199,8 @@ sessions, would sometimes exceed this limit.
 between the physical limits of attending an online meeting in an inconvenient
 time zone, and the demand for many sessions with a manageable number of
 conflicts. The IETF 109 feedback {{109-SURVEY}} indicated broad satisfaction
-with this compromise.
+with a 5-day meeting but only medium satisfaction with the overall length of
+each day.
 
 The IETF did not seriously consider extending sessions into the weekend before
 or after the main meeting week, although the Hackathon occupied the entire week
@@ -299,10 +300,10 @@ participants than in-person meetings, where participation often fluctuates based
 on the location.
 
 However, online meetings do not provide an equivalent opportunity to socialize.
-Despite significant investment in tools to foster hallway conversations,
-participation was lower than at an in-person meeting, whether due to ignorance
-of the tool, dislike of the tool, or a preference for the amusements of home
-(including sleep) over hallway interactions.
+Despite significant investment in tools to foster hallway conversations, many
+did not use those tools, whether due to ignorance of them, dislike of the tools,
+or a preference for the amusements of home (including sleep) over hallway
+interactions.
 
 There was a slight decrease in submission of new (-00) drafts during 2020 and
 2021, although the overall number of draft submissions remained stable, which
