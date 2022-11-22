@@ -106,7 +106,7 @@ this first online-only meeting, the agenda was reduced to a set of sessions that
 benefitted most from cross-area participation, like BoFs, first-time meetings of
 new working groups, and dispatch sessions. It also included the administrative
 plenary to preserve the official hand-over procedures that occur at the March
-meeting.
+meeting, as described in {{?RFC8713}}.
 
 With a reduced agenda, the meeting format was 2 sessions (about 4 hours) a day
 and a maximum of two parallel tracks. Other working group meetings were
@@ -195,7 +195,7 @@ By 2021, online meetings were consistently over 5 days with roughly 6-hour
 meeting days. The administrative plenary, which concludes with multiple open mic
 sessions, would sometimes exceed this limit.
 
-6 hours of online meetings, with two 30-minute breaks, was a compromise
+Six hours of online meetings, with two 30-minute breaks, was a compromise
 between the physical limits of attending an online meeting in an inconvenient
 time zone, and the demand for many sessions with a manageable number of
 conflicts. The IETF 109 feedback {{109-SURVEY}} indicated broad satisfaction
