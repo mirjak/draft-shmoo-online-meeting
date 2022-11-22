@@ -33,7 +33,7 @@ informative:
     author:
       - ins: J. Daley
     date: 2020-04-17
-    target: "https://mailarchive.ietf.org/arch/msg/ietf-announce/mIq1inolQXzsCaMcyBVscphHucw/" 
+    target: "https://mailarchive.ietf.org/arch/msg/ietf-announce/mIq1inolQXzsCaMcyBVscphHucw/"
 
   108-SURVEY:
     title: "IETF 108 Meeting Survey"
