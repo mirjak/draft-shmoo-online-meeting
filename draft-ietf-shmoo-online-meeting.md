@@ -25,8 +25,6 @@ author:
 
 
 normative:
-  RFC8719:
-
 
 informative:
 
@@ -60,7 +58,8 @@ informative:
 
   112-EXPERIMENT:
     title: "IETF 112 Plenary Experiment Evaluation"
-    author: Internet Engineering Steering Group
+    author:
+      - name: Internet Engineering Steering Group
     date: 2022-02-04
     target: "https://www.ietf.org/blog/ietf112-plenary-experiment-evaluation/"
 
@@ -131,7 +130,7 @@ time while still fitting within a traditional 8-hour in-person agenda, the start
 time was approximately noon, with adjustments of an hour or so to mitigate the
 impact of early morning hours in time zones with many participants. As selection
 of in-person meeting sites was consistent with the 1-1-1 guideline as documented
-in {{RFC8719}}, this approach was intended to share the burden across all common
+in {{?RFC8719}}, this approach was intended to share the burden across all common
 geographies roughly equally.
 
 # Guidelines for Online Meeting Planning
