@@ -13,8 +13,8 @@ pi: [sortrefs, symrefs]
 
 author:
   -
-    ins: M. Kuehlewind
-    name: Mirja Kuehlewind
+    ins: M. Kühlewind
+    name: Mirja Kühlewind
     org: Ericsson
     email: mirja.kuehlewind@ericsson.com
   -
@@ -33,7 +33,7 @@ informative:
     author:
       - ins: J. Daley
     date: 2020-04-17
-    target: "https://mailarchive.ietf.org/arch/msg/ietf-announce/mIq1inolQXzsCaMcyBVscphHucw/"
+    target: "https://www.ietf.org/media/documents/ietf-107-survey-results.pdf"
 
   108-SURVEY:
     title: "IETF 108 Meeting Survey"
@@ -59,7 +59,7 @@ informative:
   112-EXPERIMENT:
     title: "IETF 112 Plenary Experiment Evaluation"
     author:
-      - name: Internet Engineering Steering Group
+      - name: IESG
     date: 2022-02-04
     target: "https://www.ietf.org/blog/ietf112-plenary-experiment-evaluation/"
 
@@ -82,7 +82,7 @@ meetings during the COVID-19 pandemic.
 
 # Introduction
 
-In 2020, the COVID-19 pandemic forced the IETF to move all its plenary meetings
+In 2020, the COVID-19 pandemic forced the IETF to convert all its plenary meetings
 to online-only events. This document records the experience gained by holding
 plenary meetings fully online and proposes guidelines based on this experience.
 In general, participant surveys indicate satisfaction with the organization of
@@ -92,10 +92,14 @@ Although these guidelines reflect lessons learned in 2020 and 2021, the IETF is
 encouraged to continue to experiment with the format and agenda of fully online
 meetings, using this document as a baseline.
 
-Hybrid meetings (meaning meetings that have higher remote participation than
+Hybrid meetings (meaning meetings that have large remote participation but also
 onsite participation) are out of scope. However, some of the experience gained
 from fully online meetings might also provide input for decisions regarding the
 organization of hybrid meetings.
+
+## Requirements Language
+
+{::boilerplate bcp14-tagged}
 
 # Some History
 
@@ -107,15 +111,16 @@ new working groups, and dispatch sessions. It also included the administrative
 plenary to preserve the official hand-over procedures that occur at the March
 meeting, as described in {{?RFC8713}}.
 
-With a reduced agenda, the meeting format was 2 sessions (about 4 hours) a day
-and a maximum of two parallel tracks. Other working group meetings were
+With a reduced agenda, the meeting format was 2 sessions (about 4 hours) per day
+with a maximum of two parallel tracks. Other working group meetings were
 scheduled as interims over the following six weeks. The IESG published a
 purely advisory recommended schedule {{INTERIM-SCHEDULE}} to reduce conflicts
 among those interims.
 
-Some participants said {{107-FEEDBACK}} the period of intensive interims had a
-greater impact on their calendar than a single plenary meeting week, and reduced
-participation. Those interims tended to occur at times convenient for the bulk
+While satisfation was high right after the meetinng {{107-FEEDBACK}}, participants
+later indicated in mailing discussion that the period of intensive interims had a
+greater impact on their calendar than a single plenary meeting week, and in some
+meeting. Those interims tended to occur at times convenient for the bulk
 of participants, which was convenient for most but could exclude those in less
 common time zones.
 
@@ -126,7 +131,7 @@ participation is more tiring.
 
 All fully online meetings followed the time zone of the planned in-person
 meeting location. As a six-hour agenda has some flexibility regarding the start
-time while still fitting within a traditional 8-hour in-person agenda, the start
+time while still fitting within a previously used 8-hour in-person agenda, the start
 time was approximately noon, with adjustments of an hour or so to mitigate the
 impact of early morning hours in time zones with many participants. As selection
 of in-person meeting sites was consistent with the 1-1-1 guideline as documented
@@ -176,23 +181,23 @@ one of those regions.
 
 This table follows two basic guidelines:
 1) When ever a fully online meeting follows an in-person meeting, the online
-meeting time is used that disadvantages most the participants of the time zone
+meeting time is used that most disadvantages most the participants of the time zone
 where the in-person meeting was held.
 2) If multiple fully online meetings follow each other, the time zone selection
 should be rotated based on the most recent time zones that the in-person
 meetings were held in.
 
-The final case occurs in the rare event that back-to-back in-person plenaries
+The final case occurs in the rare event that back-to-back in-person plenary meetings
 occur in the same region. In this case, find the most recent meeting that was
-neither in 'A' (if in person) nor in 'A' night (if remote). If this meeting
+neither in 'A' (if in-person) nor in 'A' night (if fully online). If this meeting
 was in-person in region 'B', then the next meeting should be in 'B' Night. If it
 was remote in 'B' Night, the next meeting should be in 'C' Night.
 
 ## Number of Days and Total Hours per Day
 
-By 2021, online meetings were consistently over 5 days with roughly 6-hour
+By 2021, fully online meetings were consistently over 5 days with roughly 6-hour
 meeting days. The administrative plenary, which concludes with multiple open mic
-sessions, would sometimes exceed this limit.
+sessions, sometimes exceeded this limit.
 
 Six hours of online meetings, with two 30-minute breaks, was a compromise
 between the physical limits of attending an online meeting in an inconvenient
@@ -208,7 +213,7 @@ before (see {{?RFC9311}}).
 ## Session/Break Length
 
 For fully online meetings there are typically fewer sessions per day than for
-in-person meetings, to keep the overall meeting day to at roughly 6 hours.
+in-person meetings, to keep the overall meeting day to roughly 6 hours.
 With fewer sessions, chairs were offered only two options for session length
 (instead of three).
 
@@ -217,8 +222,8 @@ IETF-108, based on an indicated preference of the community, scheduled 50- and
 at 5 hours. This resulted in many sessions going over time, which indicated that
 10 minutes for breaks is not practical.
 
-The survey after IETF-109 {{109-SURVEY}} showed high satisfaction with 60/120
-minute session lengths and 30 minute breaks, and a significant improvement in
+The survey after IETF-109 {{109-SURVEY}} showed high satisfaction with 60/120-minute
+session lengths and 30-minute breaks, and a significant improvement in
 satisfaction over IETF-108.
 
 The longer breaks, while extending the day, provided adequate time for "hallway"
@@ -238,7 +243,7 @@ sessions and length.
 
 IETF-111 used 9 parallel tracks for some of the sessions, and experienced
 slightly more conflicts in the formal scheduling process, though there was no
-statistically signficant increase in dissatisfaction about conflicts in the
+statistically significant increase in dissatisfaction about conflicts in the
 survey {{111-SURVEY}}.
 
 The IESG encouraged working group chairs to limit their session requests and use
@@ -254,7 +259,7 @@ set of session followed by interims in the weeks after. The structure of IETF
 108 was preferred by 82%. Respondents valued cross-participation and an
 intensive meeting week for maintaining project momentum.
 
-Furthermore, a well defined meeting time, rather than spreading many interims
+Furthermore, a well-defined meeting time, rather than spreading many interims
 over the whole year, can make deconflicting with other non-IETF meetings easier.
 
 However, interim meetings can also help to reduce scheduling conflicts during an
@@ -274,17 +279,17 @@ that constraint.
 
 Therefore, it would be possible to keep most regular working group sessions
 within the usual five main meeting days but have some of the more conflicted
-sessions in other dedicated time slots. As the Hackathon for online only
+sessions in other dedicated time slots. As the Hackathon for fully online only
 meetings is usually held in the week before the online plenary meeting
 {{RFC9311}}, that week is already a highly active week for many IETF
 participants and might provide an opportunity to schedule a few selected
 sessions.
 
-This might work especially well for sessions that are of high interest for a
+This might work especially well for sessions that are of high interest to a
 large part of community, such as BoFs and dispatch meetings, and therefore hard
 to schedule during the main IETF week.
 
-At IETF 112, the IESG ran an experiment where the adminstrative plenary was
+At IETF 112, the IESG ran an experiment where the administrative plenary was
 scheduled on the Wednesday before the official session week. The experiment
 report {{112-EXPERIMENT}} found that it led to a reduction in scheduling
 conflicts but also a slight drop in plenary attendance, partly due to
@@ -292,7 +297,7 @@ insufficient awareness.
 
 ## Inclusivity and Socializing
 
-Participation at the online only meetings in 2021 was high and had a stable
+Participation in the fully online meetings in 2021 was high and had a stable
 per-country distribution, even though time zones were rotated. This indicates
 that online meetings support a more consistent geographic distribution of
 participants than in-person meetings, where participation often fluctuates based
@@ -313,7 +318,7 @@ be important to inspire new work.
 
 This document RECOMMENDS further experiments with the meeting structure. Often,
 only practical experience can answer open questions. A given meeting SHOULD only
-experiment with one major change at a time in order to be able to assess the
+experiment with one major change at a time in order to be able to assess the outcome correctly.
 Furthermore, the IESG SHOULD announce any such experiment in advance, so people
 can adjust to changes and potentially provide feedback.
 
