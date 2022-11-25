@@ -270,7 +270,7 @@ detailed technical discussions and solve recorded issues efficiently.
 
 ## Flexibility of time usage
 
-This document RECOMMENDS further experiments with reducing conflicts by
+This document recommends further experiments with reducing conflicts by
 leveraging the increased flexibility of the online format.
 
 An in-person meeting must fit all sessions into an acceptable length for
