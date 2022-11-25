@@ -292,8 +292,8 @@ to schedule during the main IETF week.
 At IETF 112, the IESG ran an experiment where the administrative plenary was
 scheduled on the Wednesday before the official session week. The experiment
 report {{112-EXPERIMENT}} found that it led to a reduction in scheduling
-conflicts but also a slight drop in plenary attendance, partly due to
-insufficient awareness.
+conflicts but also a slight drop attendance of the administrative plenary, partly
+due to insufficient awareness.
 
 ## Inclusivity and Socializing
 
