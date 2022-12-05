@@ -117,7 +117,7 @@ scheduled as interims over the following six weeks. The IESG published a
 purely advisory recommended schedule {{INTERIM-SCHEDULE}} to reduce conflicts
 among those interims.
 
-While satisfaction was high right after the meetinng {{107-FEEDBACK}}, participants
+While satisfaction was high right after the meetinng {{107-FEEDBACK}}, some participants
 later indicated in mailing list discussion that the period of intensive interims had a
 greater impact on their calendar than a single plenary meeting week, and in some
 meetings participation was reduced. Those interims tended to occur at times convenient for the bulk
