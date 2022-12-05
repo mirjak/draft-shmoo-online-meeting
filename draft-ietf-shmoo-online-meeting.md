@@ -168,7 +168,7 @@ to occasionally attend regardless of their location and what time of day is
 optimal for their schedule. However, as participation is distributed globally,
 it needs to be acknowledged that restricting the scheme to three regions 
 for simplicity following roughly the idea of {{!RFC8179}} does not achieve the
-goal of 2 non-late-night sessions for all partcipants equally.
+goal of 2 non-late-night sessions for all participants equally.
 
 ### Guidelines for selection
 
