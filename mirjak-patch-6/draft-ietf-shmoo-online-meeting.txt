@@ -5,8 +5,8 @@
 Network Working Group                                       M. Kühlewind
 Internet-Draft                                                  Ericsson
 Intended status: Informational                                   M. Duke
-Expires: 8 June 2023                                              Google
-                                                         5 December 2022
+Expires: 10 June 2023                                             Google
+                                                         7 December 2022
 
 
         Guidelines for the Organization of Fully Online Meetings
@@ -46,7 +46,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 8 June 2023.
+   This Internet-Draft will expire on 10 June 2023.
 
 Copyright Notice
 
@@ -322,7 +322,7 @@ Table of Contents
    Therefore, it would be possible to keep most regular working group
    sessions within the usual five main meeting days but have some of the
    more conflicted sessions in other dedicated time slots.  As the
-   Hackathon for fully online only meetings is usually held in the week
+   Hackathon for fully online meetings is usually held in the week
    before the online plenary meeting [RFC9311], that week is already a
    highly active week for many IETF participants and might provide an
    opportunity to schedule a few selected sessions.
