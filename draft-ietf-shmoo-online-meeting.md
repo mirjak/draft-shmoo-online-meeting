@@ -279,7 +279,7 @@ that constraint.
 
 Therefore, it would be possible to keep most regular working group sessions
 within the usual five main meeting days but have some of the more conflicted
-sessions in other dedicated time slots. As the Hackathon for fully online only
+sessions in other dedicated time slots. As the Hackathon for fully online
 meetings is usually held in the week before the online plenary meeting
 {{RFC9311}}, that week is already a highly active week for many IETF
 participants and might provide an opportunity to schedule a few selected
