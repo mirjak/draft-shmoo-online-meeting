@@ -325,5 +325,5 @@ can adjust to changes and potentially provide feedback.
 # Acknowledgments
 
 Thanks to Brian Carpenter, Lars Eggert, Toreless Eckert, Charles Eckel, Jason
-Livingood, and Sanjeev Gupta for their review and many from more for their
-input and suggestions on the time zone discussion!
+Livingood, Sanjeev Gupta, Dale Worley, Mark Nottingham, and Rob Wilton for their
+reviews and many from more for their input and suggestions on the time zone discussion!
