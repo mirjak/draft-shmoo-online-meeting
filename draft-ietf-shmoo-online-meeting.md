@@ -316,7 +316,7 @@ be important to inspire new work.
 
 ## Experiments
 
-This document RECOMMENDS further experiments with the meeting structure and
+This document recommends further experiments with the meeting structure and
 time zone selection. Often, only practical experience can answer open questions.
 A given meeting SHOULD only experiment with one major change at a time in order
 to be able to assess the outcome correctly. Furthermore, the IESG SHOULD
