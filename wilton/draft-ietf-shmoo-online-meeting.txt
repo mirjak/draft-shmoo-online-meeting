@@ -5,8 +5,8 @@
 Network Working Group                                       M. Kühlewind
 Internet-Draft                                                  Ericsson
 Intended status: Informational                                   M. Duke
-Expires: 15 June 2023                                             Google
-                                                        12 December 2022
+Expires: 16 June 2023                                             Google
+                                                        13 December 2022
 
 
         Guidelines for the Organization of Fully Online Meetings
@@ -46,7 +46,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 15 June 2023.
+   This Internet-Draft will expire on 16 June 2023.
 
 Copyright Notice
 
@@ -359,7 +359,7 @@ Table of Contents
 
 4.4.  Experiments
 
-   This document RECOMMENDS further experiments with the meeting
+   This document recommends further experiments with the meeting
    structure and time zone selection.  Often, only practical experience
    can answer open questions.  A given meeting SHOULD only experiment
    with one major change at a time in order to be able to assess the
