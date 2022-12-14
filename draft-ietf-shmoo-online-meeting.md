@@ -307,10 +307,10 @@ on the location.
 However, online meetings do not provide an equivalent opportunity to socialize.
 Despite significant investment in tools to foster hallway conversations, many
 did not use those tools, whether due to ignorance of them, dislike of the tools,
-or a preference for the amusements of home (including sleep) over hallway
-interactions.
+or a preference for the other activties at home (including sleep and food)
+over hallway interactions.
 
-There was a slight decrease in submission of new (-00) drafts during 2020 and
+There was a decrease in submission of new (-00) drafts during 2020 and
 2021, although the overall number of draft submissions remained stable, which
 might result from the loss of these interactions. Informal conversations might
 be important to inspire new work.
