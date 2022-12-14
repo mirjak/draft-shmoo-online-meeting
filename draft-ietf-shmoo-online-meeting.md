@@ -226,8 +226,8 @@ The survey after IETF-109 {{109-SURVEY}} showed high satisfaction with 60/120-mi
 session lengths and 30-minute breaks, and a significant improvement in
 satisfaction over IETF-108.
 
-The longer breaks, while extending the day, provided adequate time for "hallway"
-conversations using online tools, exercise, and meals.
+The longer breaks, while extending the day, provided adequate time for meals,
+exercise, and "hallway" conversations using online tools.
 
 ## Number of Parallel Tracks {#tracks}
 
@@ -251,7 +251,7 @@ interim meetings aggressively for focused work.
 
 # Additional Considerations and Recommendations
 
-## Full vs. limited agenda (and interim meetings) {#full-limited}
+## Full vs. Limited Agenda (and interim meetings) {#full-limited}
 
 The IETF-108 meeting survey {{108-SURVEY}} asked about the structure of that
 meeting (full meeting) compared to that of IETF 107, which hosted only a limited
@@ -268,7 +268,7 @@ interim meetings are less likely to attract people with casual interest, they
 provide a good opportunity for the most active participants of a group to have
 detailed technical discussions and solve recorded issues efficiently.
 
-## Flexibility of time usage
+## Flexibility of Time Usage
 
 This document recommends further experiments with reducing conflicts by
 leveraging the increased flexibility of the online format.
@@ -279,7 +279,7 @@ that constraint.
 
 Therefore, it would be possible to keep most regular working group sessions
 within the usual five main meeting days but have some of the more conflicted
-sessions in other dedicated time slots. As the Hackathon for fully online only
+sessions in other dedicated time slots. As the Hackathon for fully online
 meetings is usually held in the week before the online plenary meeting
 {{RFC9311}}, that week is already a highly active week for many IETF
 participants and might provide an opportunity to schedule a few selected
@@ -319,7 +319,7 @@ be important to inspire new work.
 This document RECOMMENDS further experiments with the meeting structure. Often,
 only practical experience can answer open questions. A given meeting SHOULD only
 experiment with one major change at a time in order to be able to assess the outcome correctly.
-Furthermore, the IESG SHOULD announce any such experiment in advance, so people
+Furthermore, the IESG SHOULD announce any such experiment well in advance, so people
 can adjust to changes and potentially provide feedback.
 
 # Acknowledgments
