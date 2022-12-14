@@ -159,9 +159,9 @@ Table of Contents
    most participants to avoid late-night sessions in 2 out of every 3
    fully online IETF plenary meetings.  Basically, every full online
    meeting is for two regions of the three regions described in
-   [RFC8179], with one being roughly after sunrise and the other after
-   dinner.  This has the tradeoff that the third region is in the middle
-   of night.
+   [RFC8179], with one being roughly after sunrise and the other around
+   sundown.  This has the tradeoff that the third region is in the
+   middle of night.
 
    The times are also seasonally adjusted to leverage differentials in
    Daylight Savings Time.  These time slots are as follows, in UTC:
@@ -359,7 +359,7 @@ Table of Contents
 
 4.4.  Experiments
 
-   This document RECOMMENDS further experiments with the meeting
+   This document recommends further experiments with the meeting
    structure.  Often, only practical experience can answer open
    questions.  A given meeting SHOULD only experiment with one major
    change at a time in order to be able to assess the outcome correctly.
