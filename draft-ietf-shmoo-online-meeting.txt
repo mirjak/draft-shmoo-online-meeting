@@ -5,8 +5,8 @@
 Network Working Group                                       M. Kühlewind
 Internet-Draft                                                  Ericsson
 Intended status: Informational                                   M. Duke
-Expires: 1 June 2023                                              Google
-                                                        28 November 2022
+Expires: 17 June 2023                                             Google
+                                                        14 December 2022
 
 
         Guidelines for the Organization of Fully Online Meetings
@@ -46,7 +46,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 1 June 2023.
+   This Internet-Draft will expire on 17 June 2023.
 
 Copyright Notice
 
@@ -128,13 +128,13 @@ Table of Contents
    weeks.  The IESG published a purely advisory recommended schedule
    [INTERIM-SCHEDULE] to reduce conflicts among those interims.
 
-   While satisfation was high right after the meetinng [_107-FEEDBACK],
-   participants later indicated in mailing discussion that the period of
-   intensive interims had a greater impact on their calendar than a
-   single plenary meeting week, and in some meeting.  Those interims
-   tended to occur at times convenient for the bulk of participants,
-   which was convenient for most but could exclude those in less common
-   time zones.
+   While satisfaction was high right after the meetinng [_107-FEEDBACK],
+   some participants later indicated in mailing list discussion that the
+   period of intensive interims had a greater impact on their calendar
+   than a single plenary meeting week, and in some meetings
+   participation was reduced.  Those interims tended to occur at times
+   convenient for the bulk of participants, which was convenient for
+   most but could exclude those in less common time zones.
 
    For the remainder of 2020 and 2021, the online schedule was switched
    back to be similar to an in-person meeting (1-2 hour slots and 8-9
