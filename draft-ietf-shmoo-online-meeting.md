@@ -85,7 +85,7 @@ meetings during the COVID-19 pandemic.
 In 2020, the COVID-19 pandemic forced the IETF to convert all its plenary meetings
 to online-only events. This document records the experience gained by holding
 plenary meetings fully online and proposes guidelines based on this experience.
-In general, participant surveys indicate satisfaction with the organization of
+In general, participant surveys indicated satisfaction with the organization of
 these meetings.
 
 Although these guidelines reflect lessons learned in 2020 and 2021, the IETF is
@@ -103,7 +103,8 @@ organization of hybrid meetings.
 
 # Some History
 
-When the WHO declared a world-wide pandemic in March 2020, the IETF canceled its
+When the World Health Organization (WHO) declared a world-wide pandemic
+in March 2020, the IETF canceled its
 plenary meeting and organized an online replacement in less than two weeks. For
 this first online-only meeting, the agenda was reduced to a set of sessions that
 benefitted most from cross-area participation, like BoFs, first-time meetings of
@@ -233,7 +234,7 @@ exercise, and "hallway" conversations using online tools.
 
 In-person meetings are limited in the number of parallel tracks by the number of
 meeting rooms, but online meetings are not. However, more parallel tracks
-increases the number of possible conflicts.
+increases the number of possible agenda conflicts.
 
 If the total number of requested sessions exceeds the capacity of the usual 8
 parallel tracks, it is possible for a fully online meeting to simply use more
