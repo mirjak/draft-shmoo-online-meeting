@@ -74,8 +74,8 @@ Table of Contents
      3.3.  Session/Break Length
      3.4.  Number of Parallel Tracks
    4.  Additional Considerations and Recommendations
-     4.1.  Full vs. limited agenda (and interim meetings)
-     4.2.  Flexibility of time usage
+     4.1.  Full vs. Limited Agenda (and interim meetings)
+     4.2.  Flexibility of Time Usage
      4.3.  Inclusivity and Socializing
      4.4.  Experiments
    5.  Acknowledgments
@@ -266,7 +266,7 @@ Table of Contents
    improvement in satisfaction over IETF-108.
 
    The longer breaks, while extending the day, provided adequate time
-   for "hallway" conversations using online tools, exercise, and meals.
+   for meals, exercise, and "hallway" conversations using online tools.
 
 3.4.  Number of Parallel Tracks
 
@@ -290,7 +290,7 @@ Table of Contents
 
 4.  Additional Considerations and Recommendations
 
-4.1.  Full vs. limited agenda (and interim meetings)
+4.1.  Full vs. Limited Agenda (and interim meetings)
 
    The IETF-108 meeting survey [_108-SURVEY] asked about the structure
    of that meeting (full meeting) compared to that of IETF 107, which
@@ -310,7 +310,7 @@ Table of Contents
    for the most active participants of a group to have detailed
    technical discussions and solve recorded issues efficiently.
 
-4.2.  Flexibility of time usage
+4.2.  Flexibility of Time Usage
 
    This document recommends further experiments with reducing conflicts
    by leveraging the increased flexibility of the online format.
@@ -322,7 +322,7 @@ Table of Contents
    Therefore, it would be possible to keep most regular working group
    sessions within the usual five main meeting days but have some of the
    more conflicted sessions in other dedicated time slots.  As the
-   Hackathon for fully online only meetings is usually held in the week
+   Hackathon for fully online meetings is usually held in the week
    before the online plenary meeting [RFC9311], that week is already a
    highly active week for many IETF participants and might provide an
    opportunity to schedule a few selected sessions.
@@ -363,8 +363,9 @@ Table of Contents
    structure.  Often, only practical experience can answer open
    questions.  A given meeting SHOULD only experiment with one major
    change at a time in order to be able to assess the outcome correctly.
-   Furthermore, the IESG SHOULD announce any such experiment in advance,
-   so people can adjust to changes and potentially provide feedback.
+   Furthermore, the IESG SHOULD announce any such experiment well in
+   advance, so people can adjust to changes and potentially provide
+   feedback.
 
 5.  Acknowledgments
 
