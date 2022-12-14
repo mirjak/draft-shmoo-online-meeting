@@ -181,7 +181,7 @@ one of those regions.
 
 This table follows two basic guidelines:
 1) When ever a fully online meeting follows an in-person meeting, the online
-meeting time is used that most disadvantages most the participants of the time zone
+meeting time is used that most disadvantages most of the participants of the time zone
 where the in-person meeting was held.
 2) If multiple fully online meetings follow each other, the time zone selection
 should be rotated based on the most recent time zones that the in-person
@@ -195,7 +195,7 @@ was remote in 'B' Night, the next meeting should be in 'C' Night.
 
 ## Number of Days and Total Hours per Day
 
-By 2021, fully online meetings were consistently over 5 days with roughly 6-hour
+By 2021, fully online meetings were consistently held over 5 days with roughly 6-hour
 meeting days. The administrative plenary, which concludes with multiple open mic
 sessions, sometimes exceeded this limit.
 
@@ -255,7 +255,7 @@ interim meetings aggressively for focused work.
 
 The IETF-108 meeting survey {{108-SURVEY}} asked about the structure of that
 meeting (full meeting) compared to that of IETF 107, which hosted only a limited
-set of session followed by interims in the weeks after. The structure of IETF
+set of sessions followed by interims in the weeks after. The structure of IETF
 108 was preferred by 82%. Respondents valued cross-participation and an
 intensive meeting week for maintaining project momentum.
 
@@ -292,7 +292,7 @@ to schedule during the main IETF week.
 At IETF 112, the IESG ran an experiment where the administrative plenary was
 scheduled on the Wednesday before the official session week. The experiment
 report {{112-EXPERIMENT}} found that it led to a reduction in scheduling
-conflicts but also a slight drop attendance of the administrative plenary, partly
+conflicts but also a slight drop in attendance of the administrative plenary, partly
 due to insufficient awareness.
 
 ## Inclusivity and Socializing
