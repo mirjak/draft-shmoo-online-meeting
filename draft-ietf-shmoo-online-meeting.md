@@ -117,10 +117,10 @@ scheduled as interims over the following six weeks. The IESG published a
 purely advisory recommended schedule {{INTERIM-SCHEDULE}} to reduce conflicts
 among those interims.
 
-While satisfation was high right after the meetinng {{107-FEEDBACK}}, participants
-later indicated in mailing discussion that the period of intensive interims had a
+While satisfaction was high right after the meetinng {{107-FEEDBACK}}, some participants
+later indicated in mailing list discussion that the period of intensive interims had a
 greater impact on their calendar than a single plenary meeting week, and in some
-meeting. Those interims tended to occur at times convenient for the bulk
+meetings participation was reduced. Those interims tended to occur at times convenient for the bulk
 of participants, which was convenient for most but could exclude those in less
 common time zones.
 
@@ -226,8 +226,8 @@ The survey after IETF-109 {{109-SURVEY}} showed high satisfaction with 60/120-mi
 session lengths and 30-minute breaks, and a significant improvement in
 satisfaction over IETF-108.
 
-The longer breaks, while extending the day, provided adequate time for "hallway"
-conversations using online tools, exercise, and meals.
+The longer breaks, while extending the day, provided adequate time for meals,
+exercise, and "hallway" conversations using online tools.
 
 ## Number of Parallel Tracks {#tracks}
 
@@ -251,7 +251,7 @@ interim meetings aggressively for focused work.
 
 # Additional Considerations and Recommendations
 
-## Full vs. limited agenda (and interim meetings) {#full-limited}
+## Full vs. Limited Agenda (and interim meetings) {#full-limited}
 
 The IETF-108 meeting survey {{108-SURVEY}} asked about the structure of that
 meeting (full meeting) compared to that of IETF 107, which hosted only a limited
@@ -268,7 +268,7 @@ interim meetings are less likely to attract people with casual interest, they
 provide a good opportunity for the most active participants of a group to have
 detailed technical discussions and solve recorded issues efficiently.
 
-## Flexibility of time usage
+## Flexibility of Time Usage
 
 This document recommends further experiments with reducing conflicts by
 leveraging the increased flexibility of the online format.
@@ -279,7 +279,7 @@ that constraint.
 
 Therefore, it would be possible to keep most regular working group sessions
 within the usual five main meeting days but have some of the more conflicted
-sessions in other dedicated time slots. As the Hackathon for fully online only
+sessions in other dedicated time slots. As the Hackathon for fully online
 meetings is usually held in the week before the online plenary meeting
 {{RFC9311}}, that week is already a highly active week for many IETF
 participants and might provide an opportunity to schedule a few selected
@@ -316,12 +316,11 @@ be important to inspire new work.
 
 ## Experiments
 
-This document recommends further experiments with the meeting structure and
-time zone selection. Often, only practical experience can answer open questions.
-A given meeting SHOULD only experiment with one major change at a time in order
-to be able to assess the outcome correctly. Furthermore, the IESG SHOULD
-announce any such experiment in advance, so people can adjust to changes and
-potentially provide feedback.
+This document recommends further experiments with the meeting structure. Often,
+only practical experience can answer open questions. A given meeting SHOULD only
+experiment with one major change at a time in order to be able to assess the outcome correctly.
+Furthermore, the IESG SHOULD announce any such experiment well in advance, so people
+can adjust to changes and potentially provide feedback.
 
 # Acknowledgments
 
