@@ -166,6 +166,9 @@ Saving Practices at the time of publication:
 | Asia Night | 1300-1900 UTC | 1400-2000 UTC |
 | Europe Night | 2200-0400 UTC | 2200-0400 UTC |
 
+Note that the "European Night" slot covers the "Early Morning" slot for Asia where
+most countries do not have Daylight Saving Time.
+
 If Daylight Saving Practices change, which is under consideration in multiple countries
 at the time of publication, this table may need adjustment.
 
