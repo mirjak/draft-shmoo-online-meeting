@@ -5,8 +5,8 @@
 Network Working Group                                       M. Kühlewind
 Internet-Draft                                                  Ericsson
 Intended status: Informational                                   M. Duke
-Expires: 17 June 2023                                             Google
-                                                        14 December 2022
+Expires: 18 June 2023                                             Google
+                                                        15 December 2022
 
 
         Guidelines for the Organization of Fully Online Meetings
@@ -46,7 +46,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 17 June 2023.
+   This Internet-Draft will expire on 18 June 2023.
 
 Copyright Notice
 
@@ -369,9 +369,9 @@ Table of Contents
 5.  Acknowledgments
 
    Thanks to Brian Carpenter, Lars Eggert, Toerless Eckert, Charles
-   Eckel, Jason Livingood, Sanjeev Gupta, Dale Worley, Mark Nottingham,
-   and Rob Wilton for their reviews and many from more for their input
-   and suggestions on the time zone discussion!
+   Eckel, Jason Livingood, Sanjeev Gupta, Dale Worley, and Mark
+   Nottingham for their reviews and many from more for their input and
+   suggestions on the time zone discussion!
 
 6.  References
 
