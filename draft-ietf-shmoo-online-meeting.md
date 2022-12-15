@@ -76,7 +76,7 @@ informative:
 This document provides guidelines for the planning and organization of fully
 online meetings, regarding the number, length, and composition of sessions on
 the meeting agenda. These guidelines are based on the experience with online
-meetings during the COVID-19 pandemic.
+meetings during the COVID-19 pandemic in 2020 and 2021.
 
 --- middle
 
@@ -100,6 +100,12 @@ organization of hybrid meetings.
 ## Requirements Language
 
 {::boilerplate bcp14-tagged}
+
+This document uses the term "plenary meeting" for the whole IETF meeting that
+covers the IETF meeting week; this term is used to distinguish the plenary meeting
+from other IETF meetings like "interim meetings".
+The term "administrative plenary" is used for the respective session
+during the IETF meeting week that is usually hosted on Wednesday.
 
 # Some History
 
@@ -180,7 +186,7 @@ one of those regions.
 | Online A Night | Online B Night | Online C Night | A Night |
 
 This table follows two basic guidelines:
-1) When ever a fully online meeting follows an in-person meeting, the online
+1) Whenever a fully online meeting follows an in-person meeting, the online
 meeting time is used that most disadvantages most the participants of the time zone
 where the in-person meeting was held.
 2) If multiple fully online meetings follow each other, the time zone selection
@@ -196,8 +202,8 @@ was remote in 'B' Night, the next meeting should be in 'C' Night.
 ## Number of Days and Total Hours per Day
 
 By 2021, fully online meetings were consistently over 5 days with roughly 6-hour
-meeting days. The administrative plenary, which concludes with multiple open mic
-sessions, sometimes exceeded this limit.
+meeting days. The day with the administrative plenary, which concludes with
+multiple open mic sessions, sometimes exceeded this limit.
 
 Six hours of online meetings, with two 30-minute breaks, was a compromise
 between the physical limits of attending an online meeting in an inconvenient
