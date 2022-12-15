@@ -5,8 +5,8 @@
 Network Working Group                                       M. Kühlewind
 Internet-Draft                                                  Ericsson
 Intended status: Informational                                   M. Duke
-Expires: 17 June 2023                                             Google
-                                                        14 December 2022
+Expires: 18 June 2023                                             Google
+                                                        15 December 2022
 
 
         Guidelines for the Organization of Fully Online Meetings
@@ -18,7 +18,7 @@ Abstract
    of fully online meetings, regarding the number, length, and
    composition of sessions on the meeting agenda.  These guidelines are
    based on the experience with online meetings during the COVID-19
-   pandemic.
+   pandemic in 2020 and 2021.
 
 Discussion Venues
 
@@ -46,7 +46,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 17 June 2023.
+   This Internet-Draft will expire on 18 June 2023.
 
 Copyright Notice
 
@@ -110,6 +110,13 @@ Table of Contents
    "OPTIONAL" in this document are to be interpreted as described in
    BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
    capitals, as shown here.
+
+   This document uses the term "plenary meeting" for the whole IETF
+   meeting that covers the IETF meeting week; this term is used to
+   distinguish the plenary meeting from other IETF meetings like
+   "interim meetings".  The term "administrative plenary" is used for
+   the respective session during the IETF meeting week that is usually
+   hosted on Wednesday.
 
 2.  Some History
 
@@ -216,7 +223,7 @@ Table of Contents
 
                                   Table 2
 
-   This table follows two basic guidelines: 1) When ever a fully online
+   This table follows two basic guidelines: 1) Whenever a fully online
    meeting follows an in-person meeting, the online meeting time is used
    that most disadvantages most the participants of the time zone where
    the in-person meeting was held. 2) If multiple fully online meetings
@@ -233,9 +240,9 @@ Table of Contents
 3.2.  Number of Days and Total Hours per Day
 
    By 2021, fully online meetings were consistently over 5 days with
-   roughly 6-hour meeting days.  The administrative plenary, which
-   concludes with multiple open mic sessions, sometimes exceeded this
-   limit.
+   roughly 6-hour meeting days.  The day with the administrative
+   plenary, which concludes with multiple open mic sessions, sometimes
+   exceeded this limit.
 
    Six hours of online meetings, with two 30-minute breaks, was a
    compromise between the physical limits of attending an online meeting

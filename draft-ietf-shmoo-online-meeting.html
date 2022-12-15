@@ -11,7 +11,7 @@
        This document provides guidelines for the planning and organization of fully
 online meetings, regarding the number, length, and composition of sessions on
 the meeting agenda. These guidelines are based on the experience with online
-meetings during the COVID-19 pandemic. 
+meetings during the COVID-19 pandemic in 2020 and 2021. 
     " name="description">
 <meta content="xml2rfc 3.15.3" name="generator">
 <meta content="Internet-Draft" name="keyword">
@@ -419,7 +419,7 @@ a[href]:hover {
 a[href].selfRef:hover {
   background-color: var(--highlight-color);
 }
-a.xref {
+a.xref:is(.cite, .auto), :is(#status-of-memo, #copyright) a {
   white-space: nowrap;
 }
 
@@ -431,7 +431,9 @@ tt, code, pre {
 tt, code {
   /* changing the font for inline elements leads to different ascender
      and descender heights; as we want to retain baseline alignment,
-     remove leading to avoid altering the final height of lines */
+     remove leading to avoid altering the final height of lines
+     note: this fails if these blocks take an entire line,
+     a different solution would be great */
   line-height: 0;
 }
 :is(h1, h2, h3, h4, h5, h6) :is(tt, code) {
@@ -1043,7 +1045,7 @@ svg :is([stroke="fill"], [fill^="#fff"]) {
 </tr></thead>
 <tfoot><tr>
 <td class="left">Kühlewind &amp; Duke</td>
-<td class="center">Expires 17 June 2023</td>
+<td class="center">Expires 18 June 2023</td>
 <td class="right">[Page]</td>
 </tr></tfoot>
 </table>
@@ -1056,12 +1058,12 @@ svg :is([stroke="fill"], [fill^="#fff"]) {
 <dd class="internet-draft">draft-ietf-shmoo-online-meeting-latest</dd>
 <dt class="label-published">Published:</dt>
 <dd class="published">
-<time datetime="2022-12-14" class="published">14 December 2022</time>
+<time datetime="2022-12-15" class="published">15 December 2022</time>
     </dd>
 <dt class="label-intended-status">Intended Status:</dt>
 <dd class="intended-status">Informational</dd>
 <dt class="label-expires">Expires:</dt>
-<dd class="expires"><time datetime="2023-06-17">17 June 2023</time></dd>
+<dd class="expires"><time datetime="2023-06-18">18 June 2023</time></dd>
 <dt class="label-authors">Authors:</dt>
 <dd class="authors">
 <div class="author">
@@ -1081,7 +1083,7 @@ svg :is([stroke="fill"], [fill^="#fff"]) {
 <p id="section-abstract-1">This document provides guidelines for the planning and organization of fully
 online meetings, regarding the number, length, and composition of sessions on
 the meeting agenda. These guidelines are based on the experience with online
-meetings during the COVID-19 pandemic.<a href="#section-abstract-1" class="pilcrow">¶</a></p>
+meetings during the COVID-19 pandemic in 2020 and 2021.<a href="#section-abstract-1" class="pilcrow">¶</a></p>
 </section>
 <section class="note rfcEditorRemove" id="section-note.1">
       <h2 id="name-discussion-venues">
@@ -1113,7 +1115,7 @@ meetings during the COVID-19 pandemic.<a href="#section-abstract-1" class="pilcr
         time. It is inappropriate to use Internet-Drafts as reference
         material or to cite them other than as "work in progress."<a href="#section-boilerplate.1-3" class="pilcrow">¶</a></p>
 <p id="section-boilerplate.1-4">
-        This Internet-Draft will expire on 17 June 2023.<a href="#section-boilerplate.1-4" class="pilcrow">¶</a></p>
+        This Internet-Draft will expire on 18 June 2023.<a href="#section-boilerplate.1-4" class="pilcrow">¶</a></p>
 </section>
 </div>
 <div id="copyright">
@@ -1239,6 +1241,11 @@ organization of hybrid meetings.<a href="#section-1-3" class="pilcrow">¶</a></p
 "<span class="bcp14">MAY</span>", and "<span class="bcp14">OPTIONAL</span>" in this document are to be interpreted as
 described in BCP 14 <span>[<a href="#RFC2119" class="cite xref">RFC2119</a>]</span> <span>[<a href="#RFC8174" class="cite xref">RFC8174</a>]</span> when, and only when, they
 appear in all capitals, as shown here.<a href="#section-1.1-1" class="pilcrow">¶</a></p>
+<p id="section-1.1-2">This document uses the term "plenary meeting" for the whole IETF meeting that
+covers the IETF meeting week; this term is used to distinguish the plenary meeting
+from other IETF meetings like "interim meetings".
+The term "administrative plenary" is used for the respective session
+during the IETF meeting week that is usually hosted on Wednesday.<a href="#section-1.1-2" class="pilcrow">¶</a></p>
 </section>
 </div>
 </section>
@@ -1388,7 +1395,7 @@ one of those regions.<a href="#section-3.1.1-1" class="pilcrow">¶</a></p>
             </tbody>
           </table>
 <p id="section-3.1.1-3">This table follows two basic guidelines:
-1) When ever a fully online meeting follows an in-person meeting, the online
+1) Whenever a fully online meeting follows an in-person meeting, the online
 meeting time is used that most disadvantages most the participants of the time zone
 where the in-person meeting was held.
 2) If multiple fully online meetings follow each other, the time zone selection
@@ -1409,8 +1416,8 @@ was remote in 'B' Night, the next meeting should be in 'C' Night.<a href="#secti
 <a href="#section-3.2" class="section-number selfRef">3.2. </a><a href="#name-number-of-days-and-total-ho" class="section-name selfRef">Number of Days and Total Hours per Day</a>
         </h3>
 <p id="section-3.2-1">By 2021, fully online meetings were consistently over 5 days with roughly 6-hour
-meeting days. The administrative plenary, which concludes with multiple open mic
-sessions, sometimes exceeded this limit.<a href="#section-3.2-1" class="pilcrow">¶</a></p>
+meeting days. The day with the administrative plenary, which concludes with
+multiple open mic sessions, sometimes exceeded this limit.<a href="#section-3.2-1" class="pilcrow">¶</a></p>
 <p id="section-3.2-2">Six hours of online meetings, with two 30-minute breaks, was a compromise
 between the physical limits of attending an online meeting in an inconvenient
 time zone, and the demand for many sessions with a manageable number of
