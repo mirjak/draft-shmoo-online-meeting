@@ -171,7 +171,8 @@ at the time of publication, this table may need adjustment.
 
 The intent of rotating between these three slots is to scatter meetings
 throughout the course of the global day, to maximize the ease of participants
-to occasionally attend regardless of their location and what time of day is
+so that no attendee has to be
+consistently inconvenienced, regardless of their location and what time of day is
 optimal for their schedule. However, as participation is distributed globally,
 it needs to be acknowledged that restricting the scheme to three regions
 observes the intent of {{!RFC8179}} but does not achieve the
@@ -179,7 +180,7 @@ goal of 2 non-late-night sessions for all participants equally.
 
 ### Guidelines for selection
 
-The IETF SHOULD select a start time from these three choices based on the past
+The IETF SHOULD select a start time from these three choices based on the prior
 three meetings. The following table covers all permutations of previous
 meetings held in-person in Region A, B, or C; or remotely in the nights of
 one of those regions.
@@ -256,7 +257,7 @@ is implicitly made by the working group chairs requesting a certain number of
 sessions and length.
 
 IETF-111 used 9 parallel tracks for some of the sessions, and experienced
-slightly more conflicts in the formal scheduling process, though there was no
+slightly more conflicts in the agenda scheduling process, though there was no
 statistically significant increase in dissatisfaction about conflicts in the
 survey {{111-SURVEY}}.
 
