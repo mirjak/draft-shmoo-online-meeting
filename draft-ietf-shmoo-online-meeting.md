@@ -76,7 +76,7 @@ informative:
 This document provides guidelines for the planning and organization of fully
 online meetings, regarding the number, length, and composition of sessions on
 the meeting agenda. These guidelines are based on the experience with online
-meetings during the COVID-19 pandemic.
+meetings during the COVID-19 pandemic in 2020 and 2021.
 
 --- middle
 
@@ -85,7 +85,7 @@ meetings during the COVID-19 pandemic.
 In 2020, the COVID-19 pandemic forced the IETF to convert all its plenary meetings
 to online-only events. This document records the experience gained by holding
 plenary meetings fully online and proposes guidelines based on this experience.
-In general, participant surveys indicate satisfaction with the organization of
+In general, participant surveys indicated satisfaction with the organization of
 these meetings.
 
 Although these guidelines reflect lessons learned in 2020 and 2021, the IETF is
@@ -101,9 +101,16 @@ organization of hybrid meetings.
 
 {::boilerplate bcp14-tagged}
 
+This document uses the term "plenary meeting" for the whole IETF meeting that
+covers the IETF meeting week; this term is used to distinguish the plenary meeting
+from other IETF meetings like "interim meetings".
+The term "administrative plenary" is used for the respective session
+during the IETF meeting week that is usually hosted on Wednesday.
+
 # Some History
 
-When the WHO declared a world-wide pandemic in March 2020, the IETF canceled its
+When the World Health Organization (WHO) declared a world-wide pandemic
+in March 2020, the IETF canceled its
 plenary meeting and organized an online replacement in less than two weeks. For
 this first online-only meeting, the agenda was reduced to a set of sessions that
 benefitted most from cross-area participation, like BoFs, first-time meetings of
@@ -150,7 +157,8 @@ and the other around sundown. This has the tradeoff that the third region is in
 the middle of night.
 
 The times are also seasonally adjusted to leverage differentials in Daylight
-Savings Time. These time slots are as follows, in UTC:
+Savings Time. These time slots are as follows, in UTC, based on the Daylight
+Savings Practices at the time of publication:
 
 | Name | Times (Northern Summer) | Times (Northern Winter) |
 | ---- | ----------------------- | ----------------------- |
@@ -158,10 +166,16 @@ Savings Time. These time slots are as follows, in UTC:
 | Asia Night | 1300-1900 UTC | 1400-2000 UTC |
 | Europe Night | 2200-0400 UTC | 2200-0400 UTC |
 
+If Daylight Savings Practices change, which is under consideration in multiple countries
+at the time of publication, this table may need adjustment.
+
 The intent of rotating between these three slots is to scatter meetings
 throughout the course of the global day, to maximize the ease of participants
 to occasionally attend regardless of their location and what time of day is
-optimal for their schedule.
+optimal for their schedule. However, as participation is distributed globally,
+it needs to be acknowledged that restricting the scheme to three regions
+observes the intent of {{!RFC8179}} but does not achieve the
+goal of 2 non-late-night sessions for all participants equally.
 
 ### Guidelines for selection
 
@@ -180,8 +194,8 @@ one of those regions.
 | Online A Night | Online B Night | Online C Night | A Night |
 
 This table follows two basic guidelines:
-1) When ever a fully online meeting follows an in-person meeting, the online
-meeting time is used that most disadvantages most of the participants in the time zone
+1) Whenever a fully online meeting follows an in-person meeting, the online
+meeting time is used that most disadvantages most the participants in the time zone
 where the in-person meeting was held.
 2) If multiple fully online meetings follow each other, the time zone selection
 should be rotated based on the most recent time zones that the in-person
@@ -196,8 +210,8 @@ was remote in 'B' Night, the next meeting should be in 'C' Night.
 ## Number of Days and Total Hours per Day
 
 By 2021, fully online meetings were consistently held over 5 days with roughly 6-hour
-meeting days. The administrative plenary, which concludes with multiple open mic
-sessions, sometimes exceeded this limit.
+meeting days. The day with the administrative plenary, which concludes with
+multiple open mic sessions, sometimes exceeded this limit.
 
 Six hours of online meetings, with two 30-minute breaks, was a compromise
 between the physical limits of attending an online meeting in an inconvenient
@@ -233,7 +247,7 @@ exercise, and "hallway" conversations using online tools.
 
 In-person meetings are limited in the number of parallel tracks by the number of
 meeting rooms, but online meetings are not. However, more parallel tracks
-increases the number of possible conflicts.
+increases the number of possible agenda conflicts.
 
 If the total number of requested sessions exceeds the capacity of the usual 8
 parallel tracks, it is possible for a fully online meeting to simply use more
@@ -306,10 +320,10 @@ on the location.
 However, online meetings do not provide an equivalent opportunity to socialize.
 Despite significant investment in tools to foster hallway conversations, many
 did not use those tools, whether due to ignorance of them, dislike of the tools,
-or a preference for the amusements of home (including sleep) over hallway
-interactions.
+or a preference for the other activities at home (including sleep and food)
+over hallway interactions.
 
-There was a slight decrease in submission of new (-00) drafts during 2020 and
+There was a decrease in submission of new (-00) drafts during 2020 and
 2021, although the overall number of draft submissions remained stable, which
 might result from the loss of these interactions. Informal conversations might
 be important to inspire new work.
