@@ -5,8 +5,8 @@
 Network Working Group                                       M. Kühlewind
 Internet-Draft                                                  Ericsson
 Intended status: Informational                                   M. Duke
-Expires: 17 June 2023                                             Google
-                                                        14 December 2022
+Expires: 18 June 2023                                             Google
+                                                        15 December 2022
 
 
         Guidelines for the Organization of Fully Online Meetings
@@ -46,7 +46,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 17 June 2023.
+   This Internet-Draft will expire on 18 June 2023.
 
 Copyright Notice
 
@@ -218,7 +218,7 @@ Table of Contents
 
    This table follows two basic guidelines: 1) When ever a fully online
    meeting follows an in-person meeting, the online meeting time is used
-   that most disadvantages most of the participants of the time zone
+   that most disadvantages most of the participants in the time zone
    where the in-person meeting was held. 2) If multiple fully online
    meetings follow each other, the time zone selection should be rotated
    based on the most recent time zones that the in-person meetings were
