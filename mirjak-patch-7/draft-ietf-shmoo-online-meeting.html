@@ -419,7 +419,7 @@ a[href]:hover {
 a[href].selfRef:hover {
   background-color: var(--highlight-color);
 }
-a.xref {
+a.xref:is(.cite, .auto), :is(#status-of-memo, #copyright) a {
   white-space: nowrap;
 }
 
@@ -431,7 +431,9 @@ tt, code, pre {
 tt, code {
   /* changing the font for inline elements leads to different ascender
      and descender heights; as we want to retain baseline alignment,
-     remove leading to avoid altering the final height of lines */
+     remove leading to avoid altering the final height of lines
+     note: this fails if these blocks take an entire line,
+     a different solution would be great */
   line-height: 0;
 }
 :is(h1, h2, h3, h4, h5, h6) :is(tt, code) {
@@ -1043,7 +1045,7 @@ svg :is([stroke="fill"], [fill^="#fff"]) {
 </tr></thead>
 <tfoot><tr>
 <td class="left">Kühlewind &amp; Duke</td>
-<td class="center">Expires 8 June 2023</td>
+<td class="center">Expires 18 June 2023</td>
 <td class="right">[Page]</td>
 </tr></tfoot>
 </table>
@@ -1056,12 +1058,12 @@ svg :is([stroke="fill"], [fill^="#fff"]) {
 <dd class="internet-draft">draft-ietf-shmoo-online-meeting-latest</dd>
 <dt class="label-published">Published:</dt>
 <dd class="published">
-<time datetime="2022-12-05" class="published">5 December 2022</time>
+<time datetime="2022-12-15" class="published">15 December 2022</time>
     </dd>
 <dt class="label-intended-status">Intended Status:</dt>
 <dd class="intended-status">Informational</dd>
 <dt class="label-expires">Expires:</dt>
-<dd class="expires"><time datetime="2023-06-08">8 June 2023</time></dd>
+<dd class="expires"><time datetime="2023-06-18">18 June 2023</time></dd>
 <dt class="label-authors">Authors:</dt>
 <dd class="authors">
 <div class="author">
@@ -1113,7 +1115,7 @@ meetings during the COVID-19 pandemic.<a href="#section-abstract-1" class="pilcr
         time. It is inappropriate to use Internet-Drafts as reference
         material or to cite them other than as "work in progress."<a href="#section-boilerplate.1-3" class="pilcrow">¶</a></p>
 <p id="section-boilerplate.1-4">
-        This Internet-Draft will expire on 8 June 2023.<a href="#section-boilerplate.1-4" class="pilcrow">¶</a></p>
+        This Internet-Draft will expire on 18 June 2023.<a href="#section-boilerplate.1-4" class="pilcrow">¶</a></p>
 </section>
 </div>
 <div id="copyright">
@@ -1326,14 +1328,14 @@ Savings Practices at the time of publication:<a href="#section-3.1-2" class="pil
             </tr>
           </tbody>
         </table>
-<p id="section-3.1-4">If Daylight Savings Practices change, as at the time of publication it is envisioned
-in future in the multiple countries, this table has to be adjusted.<a href="#section-3.1-4" class="pilcrow">¶</a></p>
+<p id="section-3.1-4">If Daylight Savings Practices change, which is under consideration in multiple countries
+at the time of publication, this table may need adjustment.<a href="#section-3.1-4" class="pilcrow">¶</a></p>
 <p id="section-3.1-5">The intent of rotating between these three slots is to scatter meetings
 throughout the course of the global day, to maximize the ease of participants
 to occasionally attend regardless of their location and what time of day is
 optimal for their schedule. However, as participation is distributed globally,
 it needs to be acknowledged that restricting the scheme to three regions
-for simplicity following roughly the idea of <span>[<a href="#RFC8179" class="cite xref">RFC8179</a>]</span> does not achieve the
+observes the intent of <span>[<a href="#RFC8179" class="cite xref">RFC8179</a>]</span> but does not achieve the
 goal of 2 non-late-night sessions for all participants equally.<a href="#section-3.1-5" class="pilcrow">¶</a></p>
 <div id="guidelines-for-selection">
 <section id="section-3.1.1">

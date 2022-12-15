@@ -5,8 +5,8 @@
 Network Working Group                                       M. Kühlewind
 Internet-Draft                                                  Ericsson
 Intended status: Informational                                   M. Duke
-Expires: 8 June 2023                                              Google
-                                                         5 December 2022
+Expires: 18 June 2023                                             Google
+                                                        15 December 2022
 
 
         Guidelines for the Organization of Fully Online Meetings
@@ -46,7 +46,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 8 June 2023.
+   This Internet-Draft will expire on 18 June 2023.
 
 Copyright Notice
 
@@ -181,18 +181,18 @@ Table of Contents
 
                                   Table 1
 
-   If Daylight Savings Practices change, as at the time of publication
-   it is envisioned in future in the multiple countries, this table has
-   to be adjusted.
+   If Daylight Savings Practices change, which is under consideration in
+   multiple countries at the time of publication, this table may need
+   adjustment.
 
    The intent of rotating between these three slots is to scatter
    meetings throughout the course of the global day, to maximize the
    ease of participants to occasionally attend regardless of their
    location and what time of day is optimal for their schedule.
    However, as participation is distributed globally, it needs to be
-   acknowledged that restricting the scheme to three regions for
-   simplicity following roughly the idea of [RFC8179] does not achieve
-   the goal of 2 non-late-night sessions for all participants equally.
+   acknowledged that restricting the scheme to three regions observes
+   the intent of [RFC8179] but does not achieve the goal of 2 non-late-
+   night sessions for all participants equally.
 
 3.1.1.  Guidelines for selection
 
