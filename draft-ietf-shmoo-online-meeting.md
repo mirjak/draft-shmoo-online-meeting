@@ -181,7 +181,7 @@ one of those regions.
 
 This table follows two basic guidelines:
 1) When ever a fully online meeting follows an in-person meeting, the online
-meeting time is used that most disadvantages most of the participants of the time zone
+meeting time is used that most disadvantages most of the participants in the time zone
 where the in-person meeting was held.
 2) If multiple fully online meetings follow each other, the time zone selection
 should be rotated based on the most recent time zones that the in-person
