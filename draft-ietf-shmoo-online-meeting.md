@@ -85,7 +85,7 @@ meetings during the COVID-19 pandemic in 2020 and 2021.
 In 2020, the COVID-19 pandemic forced the IETF to convert all its plenary meetings
 to online-only events. This document records the experience gained by holding
 plenary meetings fully online and proposes guidelines based on this experience.
-In general, participant surveys indicate satisfaction with the organization of
+In general, participant surveys indicated satisfaction with the organization of
 these meetings.
 
 Although these guidelines reflect lessons learned in 2020 and 2021, the IETF is
@@ -109,7 +109,8 @@ during the IETF meeting week that is usually hosted on Wednesday.
 
 # Some History
 
-When the WHO declared a world-wide pandemic in March 2020, the IETF canceled its
+When the World Health Organization (WHO) declared a world-wide pandemic
+in March 2020, the IETF canceled its
 plenary meeting and organized an online replacement in less than two weeks. For
 this first online-only meeting, the agenda was reduced to a set of sessions that
 benefitted most from cross-area participation, like BoFs, first-time meetings of
@@ -239,7 +240,7 @@ exercise, and "hallway" conversations using online tools.
 
 In-person meetings are limited in the number of parallel tracks by the number of
 meeting rooms, but online meetings are not. However, more parallel tracks
-increases the number of possible conflicts.
+increases the number of possible agenda conflicts.
 
 If the total number of requested sessions exceeds the capacity of the usual 8
 parallel tracks, it is possible for a fully online meeting to simply use more
@@ -312,10 +313,10 @@ on the location.
 However, online meetings do not provide an equivalent opportunity to socialize.
 Despite significant investment in tools to foster hallway conversations, many
 did not use those tools, whether due to ignorance of them, dislike of the tools,
-or a preference for the amusements of home (including sleep) over hallway
-interactions.
+or a preference for the other activities at home (including sleep and food)
+over hallway interactions.
 
-There was a slight decrease in submission of new (-00) drafts during 2020 and
+There was a decrease in submission of new (-00) drafts during 2020 and
 2021, although the overall number of draft submissions remained stable, which
 might result from the loss of these interactions. Informal conversations might
 be important to inspire new work.
