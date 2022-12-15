@@ -151,7 +151,7 @@ geographies roughly equally.
 
 The following algorithm was not used in 2020 or 2021, but enables most
 participants to avoid late-night sessions in 2 out of every 3 fully online IETF
-plenary meetings. Basically, every full online meeting is for two regions of the
+plenary meetings. Basically, every fully online meeting is for two regions of the
 three regions described in {{!RFC8179}}, with one being roughly after sunrise
 and the other around sundown. This has the tradeoff that the third region is in
 the middle of night.
