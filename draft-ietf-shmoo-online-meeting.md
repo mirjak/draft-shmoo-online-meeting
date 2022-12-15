@@ -159,15 +159,15 @@ Savings Practices at the time of publication:
 | Asia Night | 1300-1900 UTC | 1400-2000 UTC |
 | Europe Night | 2200-0400 UTC | 2200-0400 UTC |
 
-If Daylight Savings Practices change, as at the time of publication it is envisioned
-in future in the multiple countries, this table has to be adjusted.
+If Daylight Savings Practices change, which is under consideration in multiple countries
+at the time of publication, this table may need adjustment.
 
 The intent of rotating between these three slots is to scatter meetings
 throughout the course of the global day, to maximize the ease of participants
 to occasionally attend regardless of their location and what time of day is
 optimal for their schedule. However, as participation is distributed globally,
 it needs to be acknowledged that restricting the scheme to three regions
-for simplicity following roughly the idea of {{!RFC8179}} does not achieve the
+observes the intent of {{!RFC8179}} but does not achieve the
 goal of 2 non-late-night sessions for all participants equally.
 
 ### Guidelines for selection
