@@ -189,6 +189,9 @@ Table of Contents
 
                                   Table 1
 
+   Note that the "European Night" slot covers the "Early Morning" slot
+   for Asia where most countries do not have Daylight Saving Time.
+
    If Daylight Saving Practices change, which is under consideration in
    multiple countries at the time of publication, this table may need
    adjustment.
