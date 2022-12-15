@@ -172,8 +172,8 @@ Table of Contents
    middle of night.
 
    The times are also seasonally adjusted to leverage differentials in
-   Daylight Savings Time.  These time slots are as follows, in UTC,
-   based on the Daylight Savings Practices at the time of publication:
+   Daylight Saving Time.  These time slots are as follows, in UTC, based
+   on the Daylight Saving Practices at the time of publication:
 
    +===============+=========================+=========================+
    | Name          | Times (Northern Summer) | Times (Northern         |
@@ -189,7 +189,7 @@ Table of Contents
 
                                   Table 1
 
-   If Daylight Savings Practices change, which is under consideration in
+   If Daylight Saving Practices change, which is under consideration in
    multiple countries at the time of publication, this table may need
    adjustment.
 
