@@ -157,7 +157,8 @@ and the other around sundown. This has the tradeoff that the third region is in
 the middle of night.
 
 The times are also seasonally adjusted to leverage differentials in Daylight
-Savings Time. These time slots are as follows, in UTC:
+Savings Time. These time slots are as follows, in UTC, based on the Daylight
+Savings Practices at the time of publication:
 
 | Name | Times (Northern Summer) | Times (Northern Winter) |
 | ---- | ----------------------- | ----------------------- |
@@ -165,10 +166,16 @@ Savings Time. These time slots are as follows, in UTC:
 | Asia Night | 1300-1900 UTC | 1400-2000 UTC |
 | Europe Night | 2200-0400 UTC | 2200-0400 UTC |
 
+If Daylight Savings Practices change, which is under consideration in multiple countries
+at the time of publication, this table may need adjustment.
+
 The intent of rotating between these three slots is to scatter meetings
 throughout the course of the global day, to maximize the ease of participants
 to occasionally attend regardless of their location and what time of day is
-optimal for their schedule.
+optimal for their schedule. However, as participation is distributed globally,
+it needs to be acknowledged that restricting the scheme to three regions
+observes the intent of {{!RFC8179}} but does not achieve the
+goal of 2 non-late-night sessions for all participants equally.
 
 ### Guidelines for selection
 
